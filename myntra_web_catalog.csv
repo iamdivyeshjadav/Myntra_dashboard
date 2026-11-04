@@ -1,0 +1,2501 @@
+SKU,Product_Name,Brand_Name,Category,Web_Rating,Review_Count
+SKU000001,Jeans Product 379,Puma,Jeans,3.4,18573
+SKU000002,Face Wash Product 199,Levis,Face Wash,4.9,8871
+SKU000003,Shirts Product 490,Nike,Shirts,4.1,19867
+SKU000004,Lipstick Product 258,Adidas,Lipstick,3.6,7334
+SKU000005,Lipstick Product 170,H&M,Lipstick,4.2,22400
+SKU000006,Tops Product 90,US Polo,Tops,3.7,9182
+SKU000007,Kids Wear Product 423,Levis,Kids Wear,4.8,12561
+SKU000008,School Shoes Product 139,Zara,School Shoes,3.3,13465
+SKU000009,Perfume Product 182,HRX,Perfume,3.4,9381
+SKU000010,Heels Product 122,Nike,Heels,4.6,16792
+SKU000011,T-Shirts Product 365,Zara,T-Shirts,3.3,1609
+SKU000012,Perfume Product 107,US Polo,Perfume,4.6,22108
+SKU000013,School Shoes Product 332,Campus,School Shoes,3.2,7790
+SKU000014,Kids Wear Product 109,US Polo,Kids Wear,4.3,14414
+SKU000015,Dresses Product 241,Roadster,Dresses,4.7,8493
+SKU000016,Kids Wear Product 182,Levis,Kids Wear,4.8,22521
+SKU000017,Lipstick Product 47,Nike,Lipstick,5.0,13724
+SKU000018,Kids Wear Product 36,HRX,Kids Wear,4.1,5395
+SKU000019,T-Shirts Product 220,Zara,T-Shirts,3.8,13790
+SKU000020,Heels Product 265,HRX,Heels,4.8,4435
+SKU000021,Shirts Product 265,Adidas,Shirts,3.9,20960
+SKU000022,Dresses Product 469,US Polo,Dresses,4.4,16727
+SKU000023,Lipstick Product 74,HRX,Lipstick,3.2,8329
+SKU000024,T-Shirts Product 34,Nike,T-Shirts,4.7,3925
+SKU000025,Kids Wear Product 203,Campus,Kids Wear,4.0,17230
+SKU000026,School Shoes Product 394,Nike,School Shoes,4.2,15945
+SKU000027,T-Shirts Product 406,Campus,T-Shirts,4.6,11462
+SKU000028,Lipstick Product 438,Zara,Lipstick,3.9,13790
+SKU000029,Sneakers Product 268,Levis,Sneakers,4.8,4787
+SKU000030,Dresses Product 336,Nike,Dresses,4.4,14241
+SKU000031,Tops Product 283,Roadster,Tops,4.5,8175
+SKU000032,T-Shirts Product 382,Zara,T-Shirts,4.6,19964
+SKU000033,Sneakers Product 46,H&M,Sneakers,3.8,2097
+SKU000034,School Shoes Product 39,Puma,School Shoes,3.2,12055
+SKU000035,Kids Wear Product 229,Zara,Kids Wear,3.8,6714
+SKU000036,School Shoes Product 20,Levis,School Shoes,3.7,6380
+SKU000037,Kids Wear Product 444,Zara,Kids Wear,4.9,23092
+SKU000038,School Shoes Product 35,HRX,School Shoes,3.7,21060
+SKU000039,School Shoes Product 366,Campus,School Shoes,3.6,16142
+SKU000040,Face Wash Product 193,H&M,Face Wash,4.8,9434
+SKU000041,Lipstick Product 433,US Polo,Lipstick,4.6,8194
+SKU000042,Dresses Product 102,Zara,Dresses,4.0,18754
+SKU000043,Kids Wear Product 310,Campus,Kids Wear,4.9,7824
+SKU000044,School Shoes Product 146,Adidas,School Shoes,4.5,18196
+SKU000045,Heels Product 127,Puma,Heels,3.3,9682
+SKU000046,Handbags Product 196,H&M,Handbags,3.8,14601
+SKU000047,Shirts Product 312,Zara,Shirts,4.7,12955
+SKU000048,Face Wash Product 128,HRX,Face Wash,4.3,3026
+SKU000049,Heels Product 90,Nike,Heels,4.3,21855
+SKU000050,Dresses Product 264,Levis,Dresses,4.7,22354
+SKU000051,Jeans Product 112,H&M,Jeans,4.3,12324
+SKU000052,Jeans Product 225,Puma,Jeans,3.7,11679
+SKU000053,Tops Product 344,Nike,Tops,3.9,6776
+SKU000054,Dresses Product 46,H&M,Dresses,3.8,12132
+SKU000055,Sneakers Product 157,Roadster,Sneakers,3.6,22354
+SKU000056,Face Wash Product 17,Adidas,Face Wash,3.7,15108
+SKU000057,Lipstick Product 461,Roadster,Lipstick,4.4,7483
+SKU000058,T-Shirts Product 13,US Polo,T-Shirts,4.7,20268
+SKU000059,Face Wash Product 384,H&M,Face Wash,3.6,10290
+SKU000060,Kids Wear Product 84,Zara,Kids Wear,4.6,20813
+SKU000061,Tops Product 2,Nike,Tops,4.7,22732
+SKU000062,Shirts Product 282,HRX,Shirts,4.2,6302
+SKU000063,Sneakers Product 467,Adidas,Sneakers,3.9,18321
+SKU000064,Face Wash Product 265,Nike,Face Wash,3.6,21668
+SKU000065,School Shoes Product 389,HRX,School Shoes,3.5,5798
+SKU000066,Jeans Product 474,Puma,Jeans,3.8,8826
+SKU000067,Perfume Product 378,Roadster,Perfume,3.3,21027
+SKU000068,Heels Product 309,Zara,Heels,3.5,15057
+SKU000069,Tops Product 336,Puma,Tops,4.9,20957
+SKU000070,Tops Product 49,Levis,Tops,4.3,19057
+SKU000071,Dresses Product 405,H&M,Dresses,3.3,14374
+SKU000072,Kids Wear Product 474,HRX,Kids Wear,3.7,22120
+SKU000073,Tops Product 259,H&M,Tops,4.5,5803
+SKU000074,Sneakers Product 72,Campus,Sneakers,4.9,447
+SKU000075,Sneakers Product 136,Roadster,Sneakers,3.9,18390
+SKU000076,Tops Product 198,Roadster,Tops,4.5,23595
+SKU000077,Kids Wear Product 124,HRX,Kids Wear,4.7,4447
+SKU000078,Kids Wear Product 283,Roadster,Kids Wear,3.3,13274
+SKU000079,School Shoes Product 311,Nike,School Shoes,4.7,15893
+SKU000080,Perfume Product 173,Adidas,Perfume,4.1,10352
+SKU000081,Jeans Product 399,Zara,Jeans,3.7,5183
+SKU000082,Face Wash Product 199,Nike,Face Wash,4.3,17444
+SKU000083,Handbags Product 253,H&M,Handbags,3.3,23811
+SKU000084,School Shoes Product 38,Campus,School Shoes,3.5,24290
+SKU000085,Face Wash Product 408,Levis,Face Wash,4.2,15044
+SKU000086,Face Wash Product 5,Zara,Face Wash,4.2,23849
+SKU000087,Shirts Product 49,Campus,Shirts,3.6,6395
+SKU000088,Tops Product 499,HRX,Tops,4.5,19419
+SKU000089,Perfume Product 461,Puma,Perfume,4.6,6044
+SKU000090,Heels Product 332,Adidas,Heels,3.8,4032
+SKU000091,Dresses Product 116,Nike,Dresses,4.3,2525
+SKU000092,Lipstick Product 413,Roadster,Lipstick,5.0,23382
+SKU000093,Heels Product 374,H&M,Heels,3.7,17876
+SKU000094,Sneakers Product 75,Zara,Sneakers,4.3,9276
+SKU000095,Jeans Product 100,Nike,Jeans,3.8,18876
+SKU000096,Handbags Product 250,Adidas,Handbags,4.9,396
+SKU000097,T-Shirts Product 298,Adidas,T-Shirts,4.0,2307
+SKU000098,T-Shirts Product 72,Zara,T-Shirts,4.7,4831
+SKU000099,Perfume Product 179,Levis,Perfume,3.5,5230
+SKU000100,School Shoes Product 417,Nike,School Shoes,3.7,16647
+SKU000101,Shirts Product 492,Nike,Shirts,3.7,14418
+SKU000102,Face Wash Product 124,Nike,Face Wash,4.2,15567
+SKU000103,Lipstick Product 268,Zara,Lipstick,4.1,17110
+SKU000104,Heels Product 120,Campus,Heels,4.6,1371
+SKU000105,Heels Product 197,Campus,Heels,3.3,12526
+SKU000106,Tops Product 453,Nike,Tops,4.9,22104
+SKU000107,Heels Product 197,Levis,Heels,3.7,17143
+SKU000108,Dresses Product 5,Puma,Dresses,4.2,14649
+SKU000109,Jeans Product 293,Zara,Jeans,4.1,5019
+SKU000110,Dresses Product 137,Zara,Dresses,4.1,20697
+SKU000111,Shirts Product 76,Roadster,Shirts,4.9,1631
+SKU000112,Jeans Product 142,HRX,Jeans,4.3,14219
+SKU000113,Shirts Product 167,Levis,Shirts,3.9,9843
+SKU000114,Handbags Product 334,Puma,Handbags,4.0,8577
+SKU000115,Perfume Product 78,Adidas,Perfume,3.6,19256
+SKU000116,Kids Wear Product 177,Puma,Kids Wear,5.0,7202
+SKU000117,Perfume Product 378,Nike,Perfume,4.6,12829
+SKU000118,T-Shirts Product 85,Puma,T-Shirts,3.7,1246
+SKU000119,Kids Wear Product 131,HRX,Kids Wear,3.7,21802
+SKU000120,School Shoes Product 385,Roadster,School Shoes,4.5,3061
+SKU000121,Heels Product 331,Puma,Heels,4.1,15198
+SKU000122,Heels Product 329,HRX,Heels,3.3,24978
+SKU000123,School Shoes Product 157,US Polo,School Shoes,4.1,21444
+SKU000124,Handbags Product 316,Puma,Handbags,3.9,2319
+SKU000125,Face Wash Product 354,Nike,Face Wash,4.6,15951
+SKU000126,Heels Product 299,Adidas,Heels,4.5,5809
+SKU000127,Heels Product 192,Levis,Heels,3.3,2352
+SKU000128,T-Shirts Product 473,US Polo,T-Shirts,4.7,7162
+SKU000129,Face Wash Product 106,Levis,Face Wash,3.3,15355
+SKU000130,Dresses Product 193,Roadster,Dresses,4.4,11223
+SKU000131,Shirts Product 18,Campus,Shirts,3.3,11758
+SKU000132,Shirts Product 491,Adidas,Shirts,4.5,12571
+SKU000133,Tops Product 477,US Polo,Tops,3.9,228
+SKU000134,Kids Wear Product 175,H&M,Kids Wear,3.6,5214
+SKU000135,Heels Product 343,Levis,Heels,4.6,10599
+SKU000136,Perfume Product 66,Campus,Perfume,5.0,7258
+SKU000137,School Shoes Product 239,Roadster,School Shoes,4.3,5122
+SKU000138,T-Shirts Product 322,Puma,T-Shirts,4.1,18085
+SKU000139,Kids Wear Product 107,Roadster,Kids Wear,4.1,1275
+SKU000140,Sneakers Product 266,Campus,Sneakers,3.3,18139
+SKU000141,Lipstick Product 210,HRX,Lipstick,3.3,11925
+SKU000142,Kids Wear Product 250,Zara,Kids Wear,3.6,6303
+SKU000143,Face Wash Product 476,Adidas,Face Wash,3.4,337
+SKU000144,Shirts Product 26,Nike,Shirts,3.9,11515
+SKU000145,Face Wash Product 183,Levis,Face Wash,3.6,14348
+SKU000146,Heels Product 169,Campus,Heels,4.2,19871
+SKU000147,Kids Wear Product 139,Roadster,Kids Wear,4.2,19540
+SKU000148,Face Wash Product 316,Campus,Face Wash,3.3,560
+SKU000149,Jeans Product 496,Levis,Jeans,4.5,7230
+SKU000150,School Shoes Product 240,H&M,School Shoes,3.2,1064
+SKU000151,Jeans Product 439,Nike,Jeans,4.7,275
+SKU000152,Jeans Product 280,Adidas,Jeans,4.3,6308
+SKU000153,Face Wash Product 142,Zara,Face Wash,4.8,17964
+SKU000154,Face Wash Product 203,Zara,Face Wash,3.5,12539
+SKU000155,Kids Wear Product 196,HRX,Kids Wear,3.6,20580
+SKU000156,Face Wash Product 417,Campus,Face Wash,3.4,7387
+SKU000157,Tops Product 439,Campus,Tops,3.8,6266
+SKU000158,School Shoes Product 43,H&M,School Shoes,4.2,23961
+SKU000159,School Shoes Product 232,Adidas,School Shoes,3.3,13353
+SKU000160,School Shoes Product 45,Puma,School Shoes,3.6,19984
+SKU000161,Kids Wear Product 196,Roadster,Kids Wear,4.0,18924
+SKU000162,Face Wash Product 322,Campus,Face Wash,4.5,12166
+SKU000163,T-Shirts Product 198,Campus,T-Shirts,4.1,7967
+SKU000164,Jeans Product 357,Adidas,Jeans,4.1,2973
+SKU000165,Face Wash Product 149,Puma,Face Wash,3.9,10680
+SKU000166,T-Shirts Product 432,HRX,T-Shirts,3.3,2753
+SKU000167,Handbags Product 186,US Polo,Handbags,4.4,16136
+SKU000168,Lipstick Product 426,Nike,Lipstick,4.2,18270
+SKU000169,Kids Wear Product 456,HRX,Kids Wear,3.6,19033
+SKU000170,Kids Wear Product 290,US Polo,Kids Wear,4.7,20204
+SKU000171,Dresses Product 308,H&M,Dresses,3.6,3876
+SKU000172,Sneakers Product 297,Roadster,Sneakers,4.8,164
+SKU000173,Heels Product 37,H&M,Heels,4.9,492
+SKU000174,Tops Product 67,US Polo,Tops,4.1,17244
+SKU000175,Face Wash Product 196,Levis,Face Wash,4.4,2657
+SKU000176,Lipstick Product 291,Nike,Lipstick,4.7,19254
+SKU000177,Handbags Product 132,H&M,Handbags,3.8,4141
+SKU000178,Tops Product 141,HRX,Tops,3.7,24462
+SKU000179,Face Wash Product 238,Adidas,Face Wash,3.2,24435
+SKU000180,Heels Product 137,Campus,Heels,3.6,20916
+SKU000181,Dresses Product 217,Nike,Dresses,4.5,18055
+SKU000182,School Shoes Product 349,Adidas,School Shoes,5.0,7228
+SKU000183,Handbags Product 96,Campus,Handbags,4.4,19273
+SKU000184,Sneakers Product 178,Levis,Sneakers,3.3,3987
+SKU000185,Kids Wear Product 488,Nike,Kids Wear,4.6,20315
+SKU000186,School Shoes Product 458,Levis,School Shoes,3.7,22875
+SKU000187,Tops Product 5,Roadster,Tops,3.6,24916
+SKU000188,Perfume Product 393,Roadster,Perfume,3.6,17475
+SKU000189,School Shoes Product 129,Puma,School Shoes,4.2,24594
+SKU000190,T-Shirts Product 181,Adidas,T-Shirts,3.4,4098
+SKU000191,Perfume Product 413,H&M,Perfume,3.2,14332
+SKU000192,Lipstick Product 63,H&M,Lipstick,3.8,11530
+SKU000193,Lipstick Product 185,US Polo,Lipstick,4.4,23283
+SKU000194,Shirts Product 351,Puma,Shirts,3.5,7315
+SKU000195,School Shoes Product 241,Puma,School Shoes,4.9,10545
+SKU000196,Jeans Product 24,Roadster,Jeans,4.3,2329
+SKU000197,Perfume Product 184,Levis,Perfume,3.3,24872
+SKU000198,Tops Product 87,HRX,Tops,3.8,8883
+SKU000199,Heels Product 398,Roadster,Heels,4.4,15140
+SKU000200,Heels Product 434,Campus,Heels,3.4,20602
+SKU000201,Tops Product 42,Campus,Tops,4.4,8155
+SKU000202,Kids Wear Product 165,US Polo,Kids Wear,4.3,17869
+SKU000203,Kids Wear Product 315,Nike,Kids Wear,5.0,15740
+SKU000204,T-Shirts Product 74,Zara,T-Shirts,4.5,14149
+SKU000205,Shirts Product 26,Levis,Shirts,3.5,15134
+SKU000206,Jeans Product 468,Zara,Jeans,4.1,13245
+SKU000207,Kids Wear Product 332,US Polo,Kids Wear,4.5,16100
+SKU000208,Jeans Product 181,US Polo,Jeans,3.6,3582
+SKU000209,School Shoes Product 156,Roadster,School Shoes,5.0,1998
+SKU000210,Dresses Product 278,H&M,Dresses,3.7,203
+SKU000211,Perfume Product 286,Roadster,Perfume,3.4,22782
+SKU000212,Dresses Product 321,HRX,Dresses,4.2,16435
+SKU000213,Face Wash Product 496,US Polo,Face Wash,4.3,12260
+SKU000214,Face Wash Product 471,Roadster,Face Wash,4.2,8369
+SKU000215,Sneakers Product 369,H&M,Sneakers,4.2,4447
+SKU000216,T-Shirts Product 287,Levis,T-Shirts,3.7,19402
+SKU000217,Face Wash Product 493,H&M,Face Wash,3.4,7833
+SKU000218,School Shoes Product 398,Nike,School Shoes,3.7,13171
+SKU000219,Lipstick Product 446,Campus,Lipstick,4.0,22643
+SKU000220,T-Shirts Product 82,Adidas,T-Shirts,4.1,5593
+SKU000221,School Shoes Product 294,Zara,School Shoes,4.1,12553
+SKU000222,Kids Wear Product 213,H&M,Kids Wear,3.6,22714
+SKU000223,Perfume Product 280,Adidas,Perfume,4.9,6586
+SKU000224,Perfume Product 250,HRX,Perfume,3.5,19833
+SKU000225,Heels Product 293,Roadster,Heels,3.8,662
+SKU000226,Shirts Product 57,Nike,Shirts,3.9,4248
+SKU000227,School Shoes Product 237,US Polo,School Shoes,4.0,11926
+SKU000228,Kids Wear Product 358,Campus,Kids Wear,4.2,19439
+SKU000229,Lipstick Product 86,Campus,Lipstick,4.0,12691
+SKU000230,Kids Wear Product 102,HRX,Kids Wear,4.3,6672
+SKU000231,Kids Wear Product 385,Roadster,Kids Wear,4.4,19198
+SKU000232,Perfume Product 334,Campus,Perfume,3.2,24974
+SKU000233,Shirts Product 342,Roadster,Shirts,4.1,3460
+SKU000234,Face Wash Product 183,HRX,Face Wash,3.3,5973
+SKU000235,Kids Wear Product 347,Levis,Kids Wear,4.4,6865
+SKU000236,Tops Product 120,Adidas,Tops,4.6,23155
+SKU000237,Tops Product 197,Nike,Tops,4.9,2838
+SKU000238,Tops Product 69,Adidas,Tops,3.9,19865
+SKU000239,School Shoes Product 298,Levis,School Shoes,4.2,24664
+SKU000240,Perfume Product 453,US Polo,Perfume,4.5,11346
+SKU000241,Kids Wear Product 373,Levis,Kids Wear,3.7,20057
+SKU000242,Kids Wear Product 324,Adidas,Kids Wear,4.2,20920
+SKU000243,Handbags Product 245,Roadster,Handbags,4.5,19893
+SKU000244,Face Wash Product 424,HRX,Face Wash,3.5,22850
+SKU000245,Perfume Product 69,Puma,Perfume,4.0,5714
+SKU000246,Kids Wear Product 105,H&M,Kids Wear,4.2,16606
+SKU000247,Dresses Product 112,Levis,Dresses,4.8,20374
+SKU000248,Lipstick Product 157,Campus,Lipstick,4.4,21555
+SKU000249,Handbags Product 40,H&M,Handbags,3.8,1209
+SKU000250,School Shoes Product 15,Campus,School Shoes,4.3,24458
+SKU000251,Handbags Product 228,Puma,Handbags,4.4,22070
+SKU000252,Tops Product 41,Roadster,Tops,3.5,14413
+SKU000253,Tops Product 235,Zara,Tops,4.1,5723
+SKU000254,Shirts Product 414,HRX,Shirts,3.5,19067
+SKU000255,Tops Product 52,Levis,Tops,4.9,19749
+SKU000256,Jeans Product 271,Zara,Jeans,4.0,3487
+SKU000257,Lipstick Product 45,Roadster,Lipstick,4.8,15192
+SKU000258,Kids Wear Product 198,H&M,Kids Wear,3.6,2359
+SKU000259,Heels Product 381,Roadster,Heels,4.5,21477
+SKU000260,Perfume Product 230,HRX,Perfume,4.9,12446
+SKU000261,Jeans Product 146,Puma,Jeans,4.8,12785
+SKU000262,Dresses Product 200,Campus,Dresses,4.2,16670
+SKU000263,Shirts Product 201,Zara,Shirts,3.3,15253
+SKU000264,Face Wash Product 40,HRX,Face Wash,4.1,860
+SKU000265,School Shoes Product 386,H&M,School Shoes,4.4,19464
+SKU000266,Tops Product 392,Roadster,Tops,4.9,19826
+SKU000267,Face Wash Product 65,Levis,Face Wash,4.6,12375
+SKU000268,Tops Product 91,Puma,Tops,4.1,15245
+SKU000269,Perfume Product 461,Campus,Perfume,3.2,15594
+SKU000270,Dresses Product 34,HRX,Dresses,4.1,24114
+SKU000271,Lipstick Product 292,Campus,Lipstick,3.9,11667
+SKU000272,Perfume Product 220,H&M,Perfume,4.0,954
+SKU000273,Jeans Product 427,Campus,Jeans,3.6,8045
+SKU000274,Perfume Product 402,Roadster,Perfume,3.4,20132
+SKU000275,Heels Product 388,HRX,Heels,3.8,969
+SKU000276,T-Shirts Product 185,Zara,T-Shirts,4.9,17966
+SKU000277,Kids Wear Product 378,Levis,Kids Wear,3.3,17523
+SKU000278,Tops Product 257,Roadster,Tops,3.4,6462
+SKU000279,Heels Product 148,Puma,Heels,4.7,6174
+SKU000280,Lipstick Product 8,H&M,Lipstick,4.8,8366
+SKU000281,Kids Wear Product 140,US Polo,Kids Wear,4.3,9632
+SKU000282,Handbags Product 110,Roadster,Handbags,3.5,21823
+SKU000283,T-Shirts Product 417,US Polo,T-Shirts,3.4,15697
+SKU000284,Kids Wear Product 54,Zara,Kids Wear,3.7,19629
+SKU000285,Face Wash Product 397,Adidas,Face Wash,4.3,19878
+SKU000286,Lipstick Product 257,H&M,Lipstick,4.6,17664
+SKU000287,School Shoes Product 108,Zara,School Shoes,3.6,11149
+SKU000288,Dresses Product 156,Adidas,Dresses,4.6,10776
+SKU000289,Perfume Product 444,Levis,Perfume,4.7,19796
+SKU000290,Tops Product 41,H&M,Tops,4.8,10285
+SKU000291,Tops Product 294,Zara,Tops,3.9,8628
+SKU000292,School Shoes Product 91,H&M,School Shoes,3.5,4237
+SKU000293,Sneakers Product 252,H&M,Sneakers,4.0,3325
+SKU000294,Jeans Product 458,Zara,Jeans,3.2,5088
+SKU000295,Face Wash Product 56,Zara,Face Wash,4.6,7316
+SKU000296,Heels Product 80,Nike,Heels,4.6,7047
+SKU000297,Lipstick Product 380,Puma,Lipstick,4.7,19606
+SKU000298,Dresses Product 48,Campus,Dresses,4.6,12519
+SKU000299,Kids Wear Product 122,H&M,Kids Wear,4.5,9515
+SKU000300,T-Shirts Product 238,Roadster,T-Shirts,3.8,2223
+SKU000301,Shirts Product 270,H&M,Shirts,5.0,21080
+SKU000302,Kids Wear Product 256,Levis,Kids Wear,4.2,18660
+SKU000303,Lipstick Product 124,Puma,Lipstick,4.1,7770
+SKU000304,Face Wash Product 191,Nike,Face Wash,4.9,13312
+SKU000305,Handbags Product 273,Levis,Handbags,4.7,3696
+SKU000306,Jeans Product 23,H&M,Jeans,3.3,10749
+SKU000307,Kids Wear Product 201,HRX,Kids Wear,3.9,23896
+SKU000308,School Shoes Product 433,Roadster,School Shoes,3.8,23818
+SKU000309,Shirts Product 171,Nike,Shirts,3.5,366
+SKU000310,Tops Product 131,Nike,Tops,4.5,3281
+SKU000311,Shirts Product 427,Adidas,Shirts,4.1,1744
+SKU000312,T-Shirts Product 46,HRX,T-Shirts,3.8,2597
+SKU000313,Lipstick Product 92,H&M,Lipstick,4.1,22479
+SKU000314,Kids Wear Product 15,Zara,Kids Wear,3.7,2088
+SKU000315,Tops Product 486,Puma,Tops,4.7,21062
+SKU000316,Tops Product 478,Nike,Tops,3.8,15818
+SKU000317,Heels Product 49,US Polo,Heels,3.8,5334
+SKU000318,Lipstick Product 46,Campus,Lipstick,3.8,3912
+SKU000319,T-Shirts Product 120,Zara,T-Shirts,3.7,22529
+SKU000320,Perfume Product 498,Nike,Perfume,4.9,23815
+SKU000321,School Shoes Product 156,Roadster,School Shoes,3.7,15361
+SKU000322,T-Shirts Product 25,H&M,T-Shirts,4.4,22905
+SKU000323,Face Wash Product 211,Levis,Face Wash,4.5,3615
+SKU000324,Shirts Product 240,US Polo,Shirts,4.7,24973
+SKU000325,Handbags Product 294,Nike,Handbags,3.4,946
+SKU000326,School Shoes Product 220,Nike,School Shoes,3.3,20933
+SKU000327,Jeans Product 451,Zara,Jeans,4.1,5829
+SKU000328,Perfume Product 1,Zara,Perfume,4.1,12782
+SKU000329,Heels Product 278,Nike,Heels,3.7,22936
+SKU000330,T-Shirts Product 164,US Polo,T-Shirts,4.2,6697
+SKU000331,Dresses Product 359,Levis,Dresses,3.6,20626
+SKU000332,Kids Wear Product 276,Puma,Kids Wear,4.3,4263
+SKU000333,School Shoes Product 106,Adidas,School Shoes,4.5,7614
+SKU000334,Dresses Product 479,HRX,Dresses,3.2,15503
+SKU000335,T-Shirts Product 446,Campus,T-Shirts,4.6,9462
+SKU000336,Dresses Product 413,Levis,Dresses,3.3,1324
+SKU000337,Sneakers Product 18,Levis,Sneakers,5.0,6012
+SKU000338,School Shoes Product 15,H&M,School Shoes,4.3,15273
+SKU000339,School Shoes Product 62,HRX,School Shoes,4.0,22910
+SKU000340,Tops Product 45,Nike,Tops,4.8,17189
+SKU000341,School Shoes Product 119,Adidas,School Shoes,4.4,23968
+SKU000342,School Shoes Product 464,Roadster,School Shoes,4.9,1694
+SKU000343,Lipstick Product 420,Zara,Lipstick,3.3,19314
+SKU000344,School Shoes Product 335,Nike,School Shoes,4.2,6902
+SKU000345,Handbags Product 21,Zara,Handbags,3.7,20730
+SKU000346,Face Wash Product 3,H&M,Face Wash,4.8,3576
+SKU000347,Dresses Product 424,H&M,Dresses,3.5,7918
+SKU000348,Heels Product 481,US Polo,Heels,4.3,12398
+SKU000349,Perfume Product 322,H&M,Perfume,4.9,8461
+SKU000350,Shirts Product 264,Adidas,Shirts,4.0,18085
+SKU000351,Face Wash Product 494,Nike,Face Wash,4.5,17948
+SKU000352,Lipstick Product 161,Nike,Lipstick,5.0,18423
+SKU000353,Sneakers Product 317,H&M,Sneakers,3.4,17371
+SKU000354,Jeans Product 248,Nike,Jeans,3.8,21603
+SKU000355,Perfume Product 46,Nike,Perfume,3.9,5204
+SKU000356,T-Shirts Product 119,Adidas,T-Shirts,3.5,8101
+SKU000357,School Shoes Product 281,Campus,School Shoes,4.4,7242
+SKU000358,Kids Wear Product 409,Puma,Kids Wear,3.3,7750
+SKU000359,Jeans Product 438,Campus,Jeans,4.6,13380
+SKU000360,School Shoes Product 205,Levis,School Shoes,3.7,22316
+SKU000361,Face Wash Product 485,Adidas,Face Wash,4.4,20016
+SKU000362,Handbags Product 223,HRX,Handbags,4.8,5932
+SKU000363,School Shoes Product 161,Zara,School Shoes,3.3,16360
+SKU000364,Shirts Product 493,US Polo,Shirts,3.8,10814
+SKU000365,Jeans Product 346,Adidas,Jeans,4.1,8243
+SKU000366,Handbags Product 114,Zara,Handbags,3.2,6873
+SKU000367,Face Wash Product 333,Nike,Face Wash,4.0,9483
+SKU000368,Lipstick Product 182,Campus,Lipstick,3.6,20217
+SKU000369,School Shoes Product 334,H&M,School Shoes,3.5,10697
+SKU000370,School Shoes Product 53,Adidas,School Shoes,4.0,15260
+SKU000371,School Shoes Product 417,Roadster,School Shoes,3.9,15534
+SKU000372,T-Shirts Product 144,Puma,T-Shirts,3.7,16620
+SKU000373,Tops Product 399,Roadster,Tops,4.2,4187
+SKU000374,School Shoes Product 17,Zara,School Shoes,4.3,12756
+SKU000375,Jeans Product 435,Campus,Jeans,3.5,14472
+SKU000376,Jeans Product 391,Puma,Jeans,4.4,11106
+SKU000377,Tops Product 79,Puma,Tops,4.4,7941
+SKU000378,Sneakers Product 386,HRX,Sneakers,4.8,20879
+SKU000379,Face Wash Product 73,US Polo,Face Wash,4.7,24796
+SKU000380,Dresses Product 450,H&M,Dresses,3.2,22167
+SKU000381,Kids Wear Product 106,HRX,Kids Wear,4.0,5751
+SKU000382,Heels Product 172,Nike,Heels,3.3,23992
+SKU000383,T-Shirts Product 309,HRX,T-Shirts,4.0,3500
+SKU000384,Tops Product 418,Roadster,Tops,5.0,13725
+SKU000385,Kids Wear Product 355,H&M,Kids Wear,4.1,24709
+SKU000386,School Shoes Product 423,Zara,School Shoes,4.6,21475
+SKU000387,Dresses Product 187,Puma,Dresses,3.6,23848
+SKU000388,Shirts Product 405,HRX,Shirts,4.7,16882
+SKU000389,Shirts Product 266,Levis,Shirts,3.8,15602
+SKU000390,Kids Wear Product 280,H&M,Kids Wear,3.5,7718
+SKU000391,T-Shirts Product 474,H&M,T-Shirts,3.7,24222
+SKU000392,Tops Product 349,Nike,Tops,4.8,15143
+SKU000393,Handbags Product 358,Adidas,Handbags,4.6,2223
+SKU000394,School Shoes Product 254,Roadster,School Shoes,4.7,251
+SKU000395,Kids Wear Product 83,Levis,Kids Wear,4.4,21221
+SKU000396,Jeans Product 11,Adidas,Jeans,5.0,381
+SKU000397,T-Shirts Product 387,HRX,T-Shirts,3.5,22404
+SKU000398,Kids Wear Product 17,Zara,Kids Wear,4.1,11112
+SKU000399,School Shoes Product 470,H&M,School Shoes,3.5,8184
+SKU000400,Handbags Product 489,Roadster,Handbags,3.5,7237
+SKU000401,Sneakers Product 264,HRX,Sneakers,3.4,20254
+SKU000402,School Shoes Product 240,Puma,School Shoes,4.8,16776
+SKU000403,Lipstick Product 269,Puma,Lipstick,3.4,19864
+SKU000404,School Shoes Product 233,Campus,School Shoes,4.1,8894
+SKU000405,Jeans Product 65,Campus,Jeans,4.5,3251
+SKU000406,Sneakers Product 227,H&M,Sneakers,4.2,17018
+SKU000407,Kids Wear Product 233,Adidas,Kids Wear,4.7,4299
+SKU000408,Kids Wear Product 239,Adidas,Kids Wear,4.7,15309
+SKU000409,School Shoes Product 253,HRX,School Shoes,4.0,4278
+SKU000410,Handbags Product 388,Puma,Handbags,3.8,24111
+SKU000411,Kids Wear Product 14,Levis,Kids Wear,3.4,660
+SKU000412,Handbags Product 166,HRX,Handbags,4.0,18641
+SKU000413,Shirts Product 254,HRX,Shirts,4.4,11649
+SKU000414,Handbags Product 370,H&M,Handbags,4.8,151
+SKU000415,Handbags Product 6,US Polo,Handbags,3.7,19027
+SKU000416,Dresses Product 400,HRX,Dresses,4.2,7143
+SKU000417,Face Wash Product 399,Levis,Face Wash,5.0,20635
+SKU000418,Kids Wear Product 497,Campus,Kids Wear,4.3,12874
+SKU000419,Sneakers Product 370,Zara,Sneakers,3.7,2100
+SKU000420,T-Shirts Product 122,Nike,T-Shirts,3.2,9886
+SKU000421,Jeans Product 475,Puma,Jeans,4.4,19243
+SKU000422,Lipstick Product 18,Roadster,Lipstick,3.8,2819
+SKU000423,Kids Wear Product 34,Nike,Kids Wear,4.2,16324
+SKU000424,Perfume Product 91,Roadster,Perfume,3.6,14490
+SKU000425,Sneakers Product 367,Zara,Sneakers,4.4,23839
+SKU000426,Face Wash Product 171,Levis,Face Wash,4.1,16866
+SKU000427,Jeans Product 212,Roadster,Jeans,3.8,6736
+SKU000428,Lipstick Product 103,H&M,Lipstick,3.8,11629
+SKU000429,Kids Wear Product 52,Campus,Kids Wear,4.8,22318
+SKU000430,Face Wash Product 43,HRX,Face Wash,4.2,17516
+SKU000431,Handbags Product 195,Roadster,Handbags,3.8,15024
+SKU000432,Sneakers Product 46,Nike,Sneakers,4.5,21890
+SKU000433,Face Wash Product 281,Adidas,Face Wash,3.8,1210
+SKU000434,Shirts Product 273,Zara,Shirts,4.2,24764
+SKU000435,Handbags Product 167,HRX,Handbags,4.2,10624
+SKU000436,T-Shirts Product 128,Puma,T-Shirts,4.6,18349
+SKU000437,School Shoes Product 206,Zara,School Shoes,4.1,12497
+SKU000438,Face Wash Product 357,Puma,Face Wash,3.9,14997
+SKU000439,Dresses Product 387,Campus,Dresses,3.7,19143
+SKU000440,Face Wash Product 410,Puma,Face Wash,3.7,22776
+SKU000441,Dresses Product 115,Adidas,Dresses,3.8,21371
+SKU000442,Lipstick Product 284,Campus,Lipstick,4.5,11467
+SKU000443,Handbags Product 344,Nike,Handbags,3.3,14332
+SKU000444,Kids Wear Product 177,Adidas,Kids Wear,3.5,16928
+SKU000445,Heels Product 430,Nike,Heels,4.0,8979
+SKU000446,Face Wash Product 402,Roadster,Face Wash,5.0,1557
+SKU000447,Face Wash Product 305,Roadster,Face Wash,4.4,17188
+SKU000448,Lipstick Product 190,Nike,Lipstick,3.8,15823
+SKU000449,Perfume Product 408,US Polo,Perfume,3.7,21660
+SKU000450,Heels Product 174,H&M,Heels,4.6,13242
+SKU000451,Kids Wear Product 180,Nike,Kids Wear,4.0,22367
+SKU000452,Kids Wear Product 211,Adidas,Kids Wear,3.4,10779
+SKU000453,School Shoes Product 17,H&M,School Shoes,3.4,15376
+SKU000454,Jeans Product 497,US Polo,Jeans,3.5,10438
+SKU000455,Sneakers Product 257,Nike,Sneakers,4.3,13244
+SKU000456,Face Wash Product 299,H&M,Face Wash,4.7,23074
+SKU000457,Tops Product 226,Nike,Tops,3.9,7664
+SKU000458,Heels Product 361,Roadster,Heels,4.9,19009
+SKU000459,Kids Wear Product 296,H&M,Kids Wear,3.6,24800
+SKU000460,Lipstick Product 252,Adidas,Lipstick,3.7,6003
+SKU000461,Kids Wear Product 307,H&M,Kids Wear,3.3,24363
+SKU000462,School Shoes Product 5,Roadster,School Shoes,3.6,24404
+SKU000463,T-Shirts Product 260,Zara,T-Shirts,3.6,21529
+SKU000464,Lipstick Product 153,Nike,Lipstick,3.9,5481
+SKU000465,School Shoes Product 25,Nike,School Shoes,3.6,22494
+SKU000466,Lipstick Product 248,HRX,Lipstick,3.4,16957
+SKU000467,Face Wash Product 141,Levis,Face Wash,3.9,22605
+SKU000468,Lipstick Product 399,H&M,Lipstick,3.6,23915
+SKU000469,T-Shirts Product 475,Puma,T-Shirts,4.7,1777
+SKU000470,Sneakers Product 450,Campus,Sneakers,3.9,12220
+SKU000471,Perfume Product 175,Puma,Perfume,4.0,11691
+SKU000472,School Shoes Product 187,Levis,School Shoes,4.5,17073
+SKU000473,Lipstick Product 44,Roadster,Lipstick,3.5,17960
+SKU000474,School Shoes Product 72,Puma,School Shoes,4.1,10773
+SKU000475,Dresses Product 27,Zara,Dresses,4.4,3909
+SKU000476,Jeans Product 406,US Polo,Jeans,4.2,10397
+SKU000477,Tops Product 416,Campus,Tops,3.6,14713
+SKU000478,T-Shirts Product 60,Zara,T-Shirts,3.2,21814
+SKU000479,Face Wash Product 242,Puma,Face Wash,4.9,8704
+SKU000480,Perfume Product 499,Campus,Perfume,3.4,2981
+SKU000481,T-Shirts Product 401,Campus,T-Shirts,4.1,18249
+SKU000482,Sneakers Product 131,US Polo,Sneakers,3.3,14860
+SKU000483,Face Wash Product 98,Roadster,Face Wash,4.7,3981
+SKU000484,T-Shirts Product 448,Levis,T-Shirts,4.2,5575
+SKU000485,Face Wash Product 225,Nike,Face Wash,5.0,8419
+SKU000486,School Shoes Product 423,Levis,School Shoes,4.1,13212
+SKU000487,Dresses Product 149,H&M,Dresses,4.1,11195
+SKU000488,Dresses Product 8,Levis,Dresses,4.7,24973
+SKU000489,Kids Wear Product 97,Levis,Kids Wear,4.9,23821
+SKU000490,Jeans Product 131,Zara,Jeans,4.2,19084
+SKU000491,School Shoes Product 108,HRX,School Shoes,4.5,21438
+SKU000492,Kids Wear Product 219,Nike,Kids Wear,4.4,5933
+SKU000493,Kids Wear Product 85,Levis,Kids Wear,4.3,13112
+SKU000494,School Shoes Product 342,Nike,School Shoes,4.1,7480
+SKU000495,School Shoes Product 338,Roadster,School Shoes,4.5,23945
+SKU000496,School Shoes Product 382,H&M,School Shoes,4.7,21852
+SKU000497,Handbags Product 466,Zara,Handbags,4.2,11762
+SKU000498,Kids Wear Product 92,HRX,Kids Wear,4.2,6805
+SKU000499,Dresses Product 170,Levis,Dresses,4.3,14600
+SKU000500,Lipstick Product 438,HRX,Lipstick,3.9,18322
+SKU000501,Kids Wear Product 271,Campus,Kids Wear,3.6,3588
+SKU000502,Heels Product 19,US Polo,Heels,4.3,22439
+SKU000503,Shirts Product 475,H&M,Shirts,3.4,11997
+SKU000504,Dresses Product 279,Adidas,Dresses,4.4,17238
+SKU000505,Lipstick Product 420,HRX,Lipstick,4.3,15212
+SKU000506,Dresses Product 171,H&M,Dresses,5.0,9246
+SKU000507,Kids Wear Product 190,Zara,Kids Wear,3.3,18573
+SKU000508,Kids Wear Product 417,Nike,Kids Wear,4.8,14768
+SKU000509,Kids Wear Product 393,Zara,Kids Wear,4.3,20785
+SKU000510,Handbags Product 335,Roadster,Handbags,3.6,10029
+SKU000511,Jeans Product 445,Nike,Jeans,4.2,10193
+SKU000512,Kids Wear Product 392,H&M,Kids Wear,4.0,17265
+SKU000513,Sneakers Product 368,Zara,Sneakers,4.2,10747
+SKU000514,Heels Product 424,Adidas,Heels,3.6,22714
+SKU000515,Kids Wear Product 222,Nike,Kids Wear,4.8,23706
+SKU000516,Jeans Product 348,Adidas,Jeans,3.4,7446
+SKU000517,Kids Wear Product 456,Levis,Kids Wear,3.5,243
+SKU000518,School Shoes Product 471,Adidas,School Shoes,3.6,17867
+SKU000519,Handbags Product 479,US Polo,Handbags,3.6,2888
+SKU000520,School Shoes Product 469,H&M,School Shoes,4.6,18780
+SKU000521,School Shoes Product 219,H&M,School Shoes,3.5,7712
+SKU000522,School Shoes Product 32,HRX,School Shoes,3.3,15021
+SKU000523,School Shoes Product 347,Nike,School Shoes,5.0,16521
+SKU000524,School Shoes Product 290,Levis,School Shoes,4.0,173
+SKU000525,Lipstick Product 172,H&M,Lipstick,3.8,4694
+SKU000526,Kids Wear Product 53,Nike,Kids Wear,3.5,2826
+SKU000527,Shirts Product 235,Levis,Shirts,4.8,22622
+SKU000528,Face Wash Product 472,Roadster,Face Wash,4.6,7380
+SKU000529,Tops Product 498,Adidas,Tops,3.5,3537
+SKU000530,School Shoes Product 80,US Polo,School Shoes,3.7,3810
+SKU000531,Shirts Product 400,Campus,Shirts,3.3,19462
+SKU000532,Face Wash Product 101,Nike,Face Wash,3.8,447
+SKU000533,Sneakers Product 21,Nike,Sneakers,3.7,15504
+SKU000534,Jeans Product 171,HRX,Jeans,4.4,5977
+SKU000535,Heels Product 199,Zara,Heels,4.7,11432
+SKU000536,Lipstick Product 103,Adidas,Lipstick,4.3,19497
+SKU000537,Jeans Product 376,Roadster,Jeans,3.9,5524
+SKU000538,Kids Wear Product 299,Campus,Kids Wear,4.1,18142
+SKU000539,Heels Product 302,Campus,Heels,5.0,2176
+SKU000540,Tops Product 37,Nike,Tops,4.9,19128
+SKU000541,Lipstick Product 172,HRX,Lipstick,4.9,18089
+SKU000542,School Shoes Product 434,Campus,School Shoes,4.0,15462
+SKU000543,Perfume Product 87,Zara,Perfume,4.8,13861
+SKU000544,Jeans Product 174,HRX,Jeans,3.9,11522
+SKU000545,Tops Product 396,Campus,Tops,4.6,1076
+SKU000546,T-Shirts Product 223,H&M,T-Shirts,4.2,2636
+SKU000547,Kids Wear Product 266,US Polo,Kids Wear,4.9,22286
+SKU000548,School Shoes Product 324,Puma,School Shoes,3.4,15168
+SKU000549,Tops Product 76,HRX,Tops,4.0,6833
+SKU000550,Face Wash Product 331,US Polo,Face Wash,3.9,8246
+SKU000551,School Shoes Product 280,Puma,School Shoes,4.6,14254
+SKU000552,Lipstick Product 248,US Polo,Lipstick,4.5,20148
+SKU000553,Jeans Product 246,HRX,Jeans,4.1,9352
+SKU000554,Sneakers Product 273,Adidas,Sneakers,4.9,1024
+SKU000555,Sneakers Product 482,Puma,Sneakers,4.9,4669
+SKU000556,Handbags Product 156,Campus,Handbags,4.6,7174
+SKU000557,Face Wash Product 80,Zara,Face Wash,4.6,13798
+SKU000558,Dresses Product 248,US Polo,Dresses,4.2,6342
+SKU000559,Kids Wear Product 128,US Polo,Kids Wear,4.9,6964
+SKU000560,Perfume Product 223,Levis,Perfume,3.5,5284
+SKU000561,Lipstick Product 457,Roadster,Lipstick,4.0,21434
+SKU000562,T-Shirts Product 395,Zara,T-Shirts,3.2,1085
+SKU000563,Handbags Product 177,Puma,Handbags,3.9,8811
+SKU000564,Sneakers Product 60,HRX,Sneakers,4.3,5891
+SKU000565,Jeans Product 191,Adidas,Jeans,4.4,9477
+SKU000566,Heels Product 23,H&M,Heels,4.8,9816
+SKU000567,Lipstick Product 393,Nike,Lipstick,3.6,19714
+SKU000568,Jeans Product 278,US Polo,Jeans,4.8,9685
+SKU000569,Kids Wear Product 344,Adidas,Kids Wear,4.0,18155
+SKU000570,Sneakers Product 212,Nike,Sneakers,3.9,12939
+SKU000571,T-Shirts Product 362,Nike,T-Shirts,3.6,15424
+SKU000572,Kids Wear Product 476,Nike,Kids Wear,4.4,5069
+SKU000573,Sneakers Product 162,Zara,Sneakers,4.4,19444
+SKU000574,Perfume Product 133,HRX,Perfume,4.3,12154
+SKU000575,Tops Product 394,H&M,Tops,4.4,1917
+SKU000576,Kids Wear Product 370,US Polo,Kids Wear,3.5,10595
+SKU000577,Shirts Product 200,Roadster,Shirts,4.6,3744
+SKU000578,Tops Product 229,H&M,Tops,4.3,1489
+SKU000579,Heels Product 41,Roadster,Heels,4.8,15669
+SKU000580,Handbags Product 45,Campus,Handbags,4.5,3717
+SKU000581,Kids Wear Product 150,Adidas,Kids Wear,3.6,7018
+SKU000582,Face Wash Product 54,Nike,Face Wash,4.7,10592
+SKU000583,Jeans Product 496,Levis,Jeans,4.8,8661
+SKU000584,T-Shirts Product 28,Adidas,T-Shirts,3.7,12943
+SKU000585,Shirts Product 154,HRX,Shirts,3.4,21585
+SKU000586,Perfume Product 382,HRX,Perfume,4.9,13286
+SKU000587,Shirts Product 434,Campus,Shirts,4.0,23992
+SKU000588,Tops Product 38,H&M,Tops,4.0,15829
+SKU000589,Heels Product 27,US Polo,Heels,3.8,5037
+SKU000590,Jeans Product 4,Nike,Jeans,4.7,8917
+SKU000591,Handbags Product 481,Nike,Handbags,4.1,1545
+SKU000592,Perfume Product 260,Adidas,Perfume,4.9,11258
+SKU000593,T-Shirts Product 456,Levis,T-Shirts,3.6,24598
+SKU000594,Shirts Product 186,Roadster,Shirts,3.5,16058
+SKU000595,Perfume Product 82,Puma,Perfume,3.7,12198
+SKU000596,Kids Wear Product 471,Nike,Kids Wear,4.0,315
+SKU000597,Jeans Product 192,Nike,Jeans,3.9,6949
+SKU000598,Perfume Product 135,Levis,Perfume,4.2,3176
+SKU000599,Face Wash Product 117,Adidas,Face Wash,4.3,3774
+SKU000600,Kids Wear Product 66,Roadster,Kids Wear,3.5,15310
+SKU000601,Kids Wear Product 22,Nike,Kids Wear,3.4,12583
+SKU000602,T-Shirts Product 236,Adidas,T-Shirts,4.5,5397
+SKU000603,Tops Product 288,Campus,Tops,4.7,3979
+SKU000604,Jeans Product 411,H&M,Jeans,3.8,13507
+SKU000605,Handbags Product 306,Adidas,Handbags,3.2,6636
+SKU000606,Face Wash Product 30,Puma,Face Wash,3.5,22348
+SKU000607,School Shoes Product 235,US Polo,School Shoes,4.5,4435
+SKU000608,Sneakers Product 369,US Polo,Sneakers,4.9,5181
+SKU000609,Tops Product 145,Nike,Tops,4.7,11207
+SKU000610,Dresses Product 250,H&M,Dresses,4.0,7476
+SKU000611,Sneakers Product 487,US Polo,Sneakers,3.4,1174
+SKU000612,Perfume Product 439,HRX,Perfume,3.2,9109
+SKU000613,Heels Product 8,Zara,Heels,4.6,6032
+SKU000614,Sneakers Product 116,Puma,Sneakers,4.6,4928
+SKU000615,Shirts Product 207,Zara,Shirts,4.0,7709
+SKU000616,Lipstick Product 207,Zara,Lipstick,3.5,18415
+SKU000617,T-Shirts Product 398,Adidas,T-Shirts,3.2,3098
+SKU000618,Handbags Product 416,Roadster,Handbags,3.6,15085
+SKU000619,Lipstick Product 435,Zara,Lipstick,3.5,16758
+SKU000620,Kids Wear Product 337,Zara,Kids Wear,3.6,11149
+SKU000621,Kids Wear Product 153,Roadster,Kids Wear,3.2,24020
+SKU000622,Perfume Product 475,H&M,Perfume,4.4,4820
+SKU000623,Jeans Product 476,Zara,Jeans,3.9,13725
+SKU000624,School Shoes Product 420,Campus,School Shoes,3.4,10976
+SKU000625,Heels Product 262,HRX,Heels,3.2,24669
+SKU000626,Heels Product 406,Puma,Heels,4.0,16785
+SKU000627,Handbags Product 386,Zara,Handbags,4.8,9008
+SKU000628,Perfume Product 398,Roadster,Perfume,4.3,14475
+SKU000629,Lipstick Product 458,HRX,Lipstick,3.2,10231
+SKU000630,Perfume Product 387,H&M,Perfume,4.8,9554
+SKU000631,Heels Product 120,H&M,Heels,3.5,16639
+SKU000632,T-Shirts Product 289,H&M,T-Shirts,4.8,19403
+SKU000633,Lipstick Product 110,Nike,Lipstick,4.8,15690
+SKU000634,Heels Product 248,Zara,Heels,4.6,1191
+SKU000635,Kids Wear Product 132,Adidas,Kids Wear,3.5,24686
+SKU000636,Dresses Product 220,US Polo,Dresses,4.1,20760
+SKU000637,Tops Product 455,Nike,Tops,4.9,14952
+SKU000638,Perfume Product 461,HRX,Perfume,3.9,8806
+SKU000639,Face Wash Product 407,H&M,Face Wash,3.5,3820
+SKU000640,Handbags Product 369,H&M,Handbags,3.2,14618
+SKU000641,Handbags Product 149,Campus,Handbags,3.7,4283
+SKU000642,T-Shirts Product 88,Campus,T-Shirts,3.6,671
+SKU000643,School Shoes Product 111,Puma,School Shoes,4.4,1783
+SKU000644,Perfume Product 166,Campus,Perfume,3.3,16528
+SKU000645,T-Shirts Product 295,Adidas,T-Shirts,4.9,11482
+SKU000646,School Shoes Product 193,Puma,School Shoes,5.0,19722
+SKU000647,Face Wash Product 353,Roadster,Face Wash,4.4,4878
+SKU000648,Sneakers Product 363,Zara,Sneakers,4.2,24019
+SKU000649,Kids Wear Product 333,Campus,Kids Wear,3.4,10771
+SKU000650,Perfume Product 169,H&M,Perfume,4.8,785
+SKU000651,Handbags Product 498,HRX,Handbags,4.5,20298
+SKU000652,Kids Wear Product 397,HRX,Kids Wear,4.1,10545
+SKU000653,Perfume Product 232,Campus,Perfume,3.5,642
+SKU000654,Handbags Product 269,Levis,Handbags,4.4,3800
+SKU000655,Perfume Product 333,H&M,Perfume,4.7,10903
+SKU000656,School Shoes Product 111,US Polo,School Shoes,4.9,1065
+SKU000657,Perfume Product 123,H&M,Perfume,3.5,14900
+SKU000658,School Shoes Product 327,H&M,School Shoes,4.1,4980
+SKU000659,Heels Product 46,Zara,Heels,3.3,24894
+SKU000660,Sneakers Product 17,HRX,Sneakers,3.9,1640
+SKU000661,Heels Product 336,H&M,Heels,4.8,773
+SKU000662,Handbags Product 36,Adidas,Handbags,3.7,2283
+SKU000663,Heels Product 95,Roadster,Heels,3.4,17779
+SKU000664,Kids Wear Product 118,Roadster,Kids Wear,4.7,12097
+SKU000665,Jeans Product 269,US Polo,Jeans,3.5,5391
+SKU000666,Perfume Product 242,Puma,Perfume,4.0,20227
+SKU000667,Face Wash Product 425,Campus,Face Wash,3.3,3695
+SKU000668,Lipstick Product 486,US Polo,Lipstick,4.2,14663
+SKU000669,Jeans Product 10,H&M,Jeans,3.2,19092
+SKU000670,Shirts Product 345,Campus,Shirts,3.5,7698
+SKU000671,Heels Product 19,H&M,Heels,4.0,21147
+SKU000672,School Shoes Product 105,HRX,School Shoes,3.3,23140
+SKU000673,Sneakers Product 151,Zara,Sneakers,4.0,12312
+SKU000674,Perfume Product 421,Campus,Perfume,3.6,7161
+SKU000675,Kids Wear Product 306,Levis,Kids Wear,4.5,1014
+SKU000676,School Shoes Product 265,HRX,School Shoes,3.7,16798
+SKU000677,Jeans Product 132,Adidas,Jeans,3.3,11145
+SKU000678,Shirts Product 80,Campus,Shirts,5.0,19133
+SKU000679,Jeans Product 47,Puma,Jeans,3.8,24746
+SKU000680,Dresses Product 193,Zara,Dresses,3.2,20398
+SKU000681,Perfume Product 203,Roadster,Perfume,4.3,23650
+SKU000682,Lipstick Product 11,Adidas,Lipstick,3.8,17761
+SKU000683,Face Wash Product 351,H&M,Face Wash,4.5,20196
+SKU000684,Lipstick Product 39,Levis,Lipstick,3.5,20189
+SKU000685,Dresses Product 17,Nike,Dresses,4.0,1884
+SKU000686,Kids Wear Product 36,Roadster,Kids Wear,3.5,5230
+SKU000687,T-Shirts Product 500,US Polo,T-Shirts,3.7,18554
+SKU000688,Handbags Product 333,Campus,Handbags,4.1,23515
+SKU000689,School Shoes Product 7,Nike,School Shoes,3.7,13179
+SKU000690,Heels Product 43,HRX,Heels,4.2,21880
+SKU000691,Shirts Product 19,Campus,Shirts,4.7,13345
+SKU000692,Lipstick Product 106,Nike,Lipstick,4.6,20082
+SKU000693,Tops Product 412,HRX,Tops,4.4,8486
+SKU000694,Perfume Product 181,Nike,Perfume,3.6,6544
+SKU000695,School Shoes Product 451,Campus,School Shoes,4.4,11443
+SKU000696,Lipstick Product 132,Campus,Lipstick,4.0,193
+SKU000697,Sneakers Product 271,US Polo,Sneakers,3.2,22457
+SKU000698,Heels Product 333,Roadster,Heels,4.8,14597
+SKU000699,Heels Product 62,HRX,Heels,3.4,8444
+SKU000700,Face Wash Product 184,Zara,Face Wash,3.6,1748
+SKU000701,Heels Product 85,H&M,Heels,4.0,16175
+SKU000702,Tops Product 107,Zara,Tops,3.6,1254
+SKU000703,Tops Product 421,Zara,Tops,4.3,6808
+SKU000704,Perfume Product 193,Levis,Perfume,4.4,585
+SKU000705,Kids Wear Product 384,Adidas,Kids Wear,3.2,3448
+SKU000706,Jeans Product 287,Nike,Jeans,3.3,12371
+SKU000707,Lipstick Product 490,Roadster,Lipstick,3.7,20789
+SKU000708,School Shoes Product 143,Zara,School Shoes,4.2,7236
+SKU000709,Lipstick Product 33,Zara,Lipstick,4.6,2126
+SKU000710,Face Wash Product 155,Levis,Face Wash,4.4,9638
+SKU000711,Heels Product 230,US Polo,Heels,3.6,21919
+SKU000712,Dresses Product 222,Levis,Dresses,3.5,13698
+SKU000713,Perfume Product 147,H&M,Perfume,4.2,1756
+SKU000714,School Shoes Product 183,H&M,School Shoes,3.3,6193
+SKU000715,Kids Wear Product 115,Campus,Kids Wear,4.4,9710
+SKU000716,T-Shirts Product 235,Roadster,T-Shirts,3.3,11107
+SKU000717,Kids Wear Product 45,H&M,Kids Wear,4.6,21893
+SKU000718,Face Wash Product 443,H&M,Face Wash,4.7,3562
+SKU000719,School Shoes Product 378,Zara,School Shoes,3.9,12507
+SKU000720,Lipstick Product 478,Zara,Lipstick,3.5,16408
+SKU000721,Perfume Product 397,Roadster,Perfume,3.9,12110
+SKU000722,Tops Product 147,Levis,Tops,4.5,3497
+SKU000723,Sneakers Product 414,H&M,Sneakers,3.3,22480
+SKU000724,Dresses Product 134,Nike,Dresses,4.4,16006
+SKU000725,Tops Product 341,Campus,Tops,3.7,11550
+SKU000726,School Shoes Product 25,Roadster,School Shoes,4.9,3783
+SKU000727,Dresses Product 195,Roadster,Dresses,4.4,13061
+SKU000728,Handbags Product 141,H&M,Handbags,4.5,7404
+SKU000729,T-Shirts Product 492,Nike,T-Shirts,3.7,18926
+SKU000730,Dresses Product 481,Puma,Dresses,4.1,13628
+SKU000731,Tops Product 143,Zara,Tops,3.7,24589
+SKU000732,Kids Wear Product 122,Campus,Kids Wear,3.2,1721
+SKU000733,Face Wash Product 99,Puma,Face Wash,3.9,8444
+SKU000734,Face Wash Product 233,Adidas,Face Wash,4.1,5868
+SKU000735,Shirts Product 124,Levis,Shirts,3.8,20621
+SKU000736,Face Wash Product 16,Roadster,Face Wash,4.7,23807
+SKU000737,Tops Product 495,US Polo,Tops,3.5,12994
+SKU000738,Lipstick Product 498,Adidas,Lipstick,3.3,11812
+SKU000739,Face Wash Product 407,HRX,Face Wash,3.9,4224
+SKU000740,School Shoes Product 14,Campus,School Shoes,4.9,23059
+SKU000741,Tops Product 326,Nike,Tops,3.6,3512
+SKU000742,Kids Wear Product 323,HRX,Kids Wear,3.8,21598
+SKU000743,School Shoes Product 137,H&M,School Shoes,4.8,15628
+SKU000744,Sneakers Product 118,Adidas,Sneakers,4.3,11962
+SKU000745,Perfume Product 368,Levis,Perfume,4.6,21049
+SKU000746,Tops Product 383,Puma,Tops,4.3,9541
+SKU000747,Sneakers Product 191,HRX,Sneakers,4.9,23760
+SKU000748,Face Wash Product 79,Roadster,Face Wash,3.7,10610
+SKU000749,Tops Product 288,Levis,Tops,4.4,2818
+SKU000750,School Shoes Product 95,Nike,School Shoes,4.2,24295
+SKU000751,Kids Wear Product 155,Levis,Kids Wear,4.1,3668
+SKU000752,School Shoes Product 272,Campus,School Shoes,3.4,19413
+SKU000753,School Shoes Product 485,HRX,School Shoes,3.8,9848
+SKU000754,Sneakers Product 30,H&M,Sneakers,3.9,17391
+SKU000755,T-Shirts Product 258,US Polo,T-Shirts,3.4,23446
+SKU000756,Sneakers Product 488,US Polo,Sneakers,3.2,7422
+SKU000757,Perfume Product 77,HRX,Perfume,4.6,13717
+SKU000758,Handbags Product 268,Campus,Handbags,3.6,7825
+SKU000759,Lipstick Product 425,US Polo,Lipstick,3.4,14205
+SKU000760,Lipstick Product 357,Puma,Lipstick,3.4,20586
+SKU000761,Jeans Product 447,HRX,Jeans,3.7,18886
+SKU000762,Heels Product 230,Adidas,Heels,4.7,14449
+SKU000763,Kids Wear Product 432,Roadster,Kids Wear,3.9,13683
+SKU000764,Sneakers Product 432,Campus,Sneakers,3.7,1916
+SKU000765,Dresses Product 75,HRX,Dresses,3.7,24733
+SKU000766,Handbags Product 90,Campus,Handbags,3.7,13132
+SKU000767,Dresses Product 500,Zara,Dresses,4.3,18045
+SKU000768,Dresses Product 464,Roadster,Dresses,4.0,3754
+SKU000769,Kids Wear Product 452,Adidas,Kids Wear,4.5,17868
+SKU000770,Kids Wear Product 158,US Polo,Kids Wear,3.6,2243
+SKU000771,Heels Product 184,Levis,Heels,4.3,5928
+SKU000772,T-Shirts Product 242,Puma,T-Shirts,4.1,1946
+SKU000773,Kids Wear Product 118,Adidas,Kids Wear,3.8,10476
+SKU000774,School Shoes Product 317,H&M,School Shoes,3.2,1838
+SKU000775,Perfume Product 151,Zara,Perfume,4.3,1493
+SKU000776,Jeans Product 376,HRX,Jeans,4.9,8766
+SKU000777,School Shoes Product 202,US Polo,School Shoes,4.5,14200
+SKU000778,T-Shirts Product 204,US Polo,T-Shirts,4.7,14500
+SKU000779,Lipstick Product 61,Adidas,Lipstick,4.4,19857
+SKU000780,Lipstick Product 469,Nike,Lipstick,4.6,1671
+SKU000781,Tops Product 20,US Polo,Tops,4.7,12939
+SKU000782,Lipstick Product 52,US Polo,Lipstick,4.0,10196
+SKU000783,Handbags Product 94,Puma,Handbags,4.5,3018
+SKU000784,Kids Wear Product 335,Levis,Kids Wear,4.2,5588
+SKU000785,Dresses Product 481,H&M,Dresses,3.7,15969
+SKU000786,Jeans Product 330,Puma,Jeans,4.0,984
+SKU000787,Perfume Product 438,Adidas,Perfume,4.2,23608
+SKU000788,Heels Product 402,H&M,Heels,3.5,11846
+SKU000789,Sneakers Product 204,H&M,Sneakers,3.4,19669
+SKU000790,Kids Wear Product 370,Zara,Kids Wear,4.6,2902
+SKU000791,Face Wash Product 295,US Polo,Face Wash,4.4,11797
+SKU000792,School Shoes Product 432,Roadster,School Shoes,3.5,15821
+SKU000793,Kids Wear Product 500,Campus,Kids Wear,3.5,23040
+SKU000794,Kids Wear Product 97,Zara,Kids Wear,4.1,1241
+SKU000795,Perfume Product 330,Nike,Perfume,3.7,17972
+SKU000796,Tops Product 428,Campus,Tops,4.0,15471
+SKU000797,Jeans Product 393,Levis,Jeans,4.1,14150
+SKU000798,Face Wash Product 114,Adidas,Face Wash,3.4,13410
+SKU000799,Shirts Product 356,H&M,Shirts,4.1,24474
+SKU000800,Sneakers Product 202,HRX,Sneakers,4.6,4495
+SKU000801,Tops Product 162,Puma,Tops,3.9,1436
+SKU000802,Heels Product 493,H&M,Heels,4.5,12504
+SKU000803,School Shoes Product 482,Zara,School Shoes,3.7,2475
+SKU000804,Heels Product 174,Campus,Heels,4.0,24329
+SKU000805,Kids Wear Product 280,H&M,Kids Wear,4.3,13653
+SKU000806,T-Shirts Product 288,Roadster,T-Shirts,4.6,8491
+SKU000807,Sneakers Product 7,Adidas,Sneakers,4.2,2532
+SKU000808,Perfume Product 391,Roadster,Perfume,4.3,3976
+SKU000809,Sneakers Product 355,Levis,Sneakers,4.8,6766
+SKU000810,T-Shirts Product 477,HRX,T-Shirts,3.5,14821
+SKU000811,Dresses Product 383,Zara,Dresses,3.5,11080
+SKU000812,T-Shirts Product 281,Puma,T-Shirts,5.0,5017
+SKU000813,Heels Product 400,Campus,Heels,4.3,21531
+SKU000814,Perfume Product 204,Roadster,Perfume,3.3,14403
+SKU000815,Face Wash Product 434,US Polo,Face Wash,4.1,5950
+SKU000816,Tops Product 70,US Polo,Tops,4.6,15582
+SKU000817,Face Wash Product 221,Zara,Face Wash,4.9,3086
+SKU000818,Jeans Product 105,US Polo,Jeans,3.4,14944
+SKU000819,T-Shirts Product 347,Roadster,T-Shirts,3.3,8089
+SKU000820,Kids Wear Product 345,Levis,Kids Wear,3.4,20375
+SKU000821,Dresses Product 475,HRX,Dresses,4.0,3957
+SKU000822,Dresses Product 396,Adidas,Dresses,3.5,19052
+SKU000823,Lipstick Product 106,Puma,Lipstick,3.6,18468
+SKU000824,T-Shirts Product 20,H&M,T-Shirts,3.6,8532
+SKU000825,Perfume Product 165,Zara,Perfume,3.3,13171
+SKU000826,Kids Wear Product 16,Levis,Kids Wear,4.3,2449
+SKU000827,Shirts Product 263,US Polo,Shirts,4.6,21102
+SKU000828,Shirts Product 445,US Polo,Shirts,4.2,22566
+SKU000829,Shirts Product 266,HRX,Shirts,4.5,6112
+SKU000830,Shirts Product 460,HRX,Shirts,3.9,16844
+SKU000831,Kids Wear Product 51,US Polo,Kids Wear,3.4,4219
+SKU000832,Handbags Product 274,Nike,Handbags,4.3,317
+SKU000833,Face Wash Product 298,Puma,Face Wash,3.4,5183
+SKU000834,Perfume Product 329,Zara,Perfume,4.6,3621
+SKU000835,Kids Wear Product 312,Puma,Kids Wear,4.6,13047
+SKU000836,School Shoes Product 257,H&M,School Shoes,3.9,22170
+SKU000837,Kids Wear Product 67,H&M,Kids Wear,3.3,24446
+SKU000838,Perfume Product 445,Puma,Perfume,3.6,8532
+SKU000839,School Shoes Product 267,US Polo,School Shoes,3.3,6354
+SKU000840,Lipstick Product 104,Campus,Lipstick,3.5,14120
+SKU000841,Lipstick Product 397,Puma,Lipstick,3.5,24062
+SKU000842,Sneakers Product 343,Roadster,Sneakers,4.8,21269
+SKU000843,Face Wash Product 454,Roadster,Face Wash,4.1,23289
+SKU000844,Sneakers Product 488,H&M,Sneakers,4.0,9891
+SKU000845,Handbags Product 122,Nike,Handbags,4.3,16687
+SKU000846,Shirts Product 390,Roadster,Shirts,4.3,22724
+SKU000847,Kids Wear Product 342,Levis,Kids Wear,4.1,18207
+SKU000848,Shirts Product 238,Nike,Shirts,3.8,6231
+SKU000849,Heels Product 116,Nike,Heels,3.3,11998
+SKU000850,Kids Wear Product 163,US Polo,Kids Wear,4.3,18921
+SKU000851,Shirts Product 52,H&M,Shirts,4.3,6326
+SKU000852,Heels Product 406,US Polo,Heels,4.3,13930
+SKU000853,Kids Wear Product 234,Puma,Kids Wear,4.9,19102
+SKU000854,T-Shirts Product 448,Zara,T-Shirts,4.7,10397
+SKU000855,Heels Product 140,Puma,Heels,4.3,11830
+SKU000856,Jeans Product 2,US Polo,Jeans,4.7,6817
+SKU000857,Jeans Product 113,HRX,Jeans,4.5,7934
+SKU000858,Face Wash Product 340,Zara,Face Wash,3.2,14607
+SKU000859,Face Wash Product 90,HRX,Face Wash,4.1,23116
+SKU000860,T-Shirts Product 254,Roadster,T-Shirts,3.6,15635
+SKU000861,School Shoes Product 281,HRX,School Shoes,3.4,7594
+SKU000862,Face Wash Product 209,US Polo,Face Wash,4.5,8310
+SKU000863,Kids Wear Product 335,Zara,Kids Wear,3.4,20664
+SKU000864,School Shoes Product 245,US Polo,School Shoes,4.4,3135
+SKU000865,T-Shirts Product 390,HRX,T-Shirts,3.4,19173
+SKU000866,Handbags Product 401,Zara,Handbags,4.7,5962
+SKU000867,Handbags Product 25,Adidas,Handbags,3.8,7330
+SKU000868,Lipstick Product 441,Nike,Lipstick,4.1,8139
+SKU000869,Perfume Product 468,US Polo,Perfume,3.7,3553
+SKU000870,Lipstick Product 499,HRX,Lipstick,3.8,13952
+SKU000871,Shirts Product 122,US Polo,Shirts,3.4,17704
+SKU000872,Perfume Product 191,Puma,Perfume,4.1,2553
+SKU000873,School Shoes Product 299,Nike,School Shoes,3.7,19763
+SKU000874,Sneakers Product 160,Zara,Sneakers,3.4,3783
+SKU000875,Tops Product 241,Puma,Tops,4.3,16591
+SKU000876,Dresses Product 35,Zara,Dresses,4.2,10797
+SKU000877,Kids Wear Product 391,Nike,Kids Wear,3.9,23820
+SKU000878,Kids Wear Product 223,H&M,Kids Wear,4.0,9275
+SKU000879,Sneakers Product 224,Zara,Sneakers,3.9,12443
+SKU000880,T-Shirts Product 339,H&M,T-Shirts,4.9,19629
+SKU000881,Jeans Product 196,Roadster,Jeans,3.5,6992
+SKU000882,Tops Product 404,HRX,Tops,3.7,18971
+SKU000883,School Shoes Product 177,H&M,School Shoes,3.8,15728
+SKU000884,Shirts Product 476,Levis,Shirts,3.8,5190
+SKU000885,Heels Product 109,Campus,Heels,5.0,15118
+SKU000886,School Shoes Product 113,Nike,School Shoes,4.2,17341
+SKU000887,Tops Product 18,Zara,Tops,4.3,19327
+SKU000888,School Shoes Product 233,H&M,School Shoes,3.2,12687
+SKU000889,Jeans Product 373,H&M,Jeans,4.2,7351
+SKU000890,Jeans Product 345,Nike,Jeans,4.3,23739
+SKU000891,Sneakers Product 49,HRX,Sneakers,3.6,24797
+SKU000892,Lipstick Product 326,Roadster,Lipstick,4.3,24425
+SKU000893,Sneakers Product 211,US Polo,Sneakers,3.9,18779
+SKU000894,School Shoes Product 89,Levis,School Shoes,3.6,17183
+SKU000895,School Shoes Product 340,HRX,School Shoes,3.4,5426
+SKU000896,Dresses Product 132,H&M,Dresses,3.4,21165
+SKU000897,Dresses Product 310,Roadster,Dresses,4.2,21812
+SKU000898,School Shoes Product 435,Puma,School Shoes,3.7,3568
+SKU000899,Dresses Product 183,Adidas,Dresses,4.8,18976
+SKU000900,Lipstick Product 384,Nike,Lipstick,4.2,20857
+SKU000901,Shirts Product 118,HRX,Shirts,3.9,10159
+SKU000902,School Shoes Product 411,Adidas,School Shoes,4.8,24131
+SKU000903,Handbags Product 354,US Polo,Handbags,3.8,2477
+SKU000904,Face Wash Product 217,Puma,Face Wash,4.3,23895
+SKU000905,T-Shirts Product 247,Levis,T-Shirts,4.4,24578
+SKU000906,Lipstick Product 115,Nike,Lipstick,4.4,8342
+SKU000907,Kids Wear Product 344,H&M,Kids Wear,4.1,20698
+SKU000908,Face Wash Product 10,US Polo,Face Wash,4.5,24718
+SKU000909,Heels Product 256,Zara,Heels,4.6,160
+SKU000910,Jeans Product 251,Nike,Jeans,3.3,22223
+SKU000911,Sneakers Product 303,Roadster,Sneakers,4.4,5213
+SKU000912,Dresses Product 22,HRX,Dresses,4.6,16210
+SKU000913,Lipstick Product 229,Nike,Lipstick,4.2,5238
+SKU000914,Lipstick Product 419,US Polo,Lipstick,4.7,4744
+SKU000915,Jeans Product 426,Roadster,Jeans,4.5,18902
+SKU000916,Face Wash Product 153,Roadster,Face Wash,4.2,3092
+SKU000917,Sneakers Product 48,Roadster,Sneakers,4.0,1715
+SKU000918,Dresses Product 404,Roadster,Dresses,4.8,1358
+SKU000919,Heels Product 401,Puma,Heels,4.6,7476
+SKU000920,T-Shirts Product 490,Levis,T-Shirts,4.4,23023
+SKU000921,Kids Wear Product 415,Nike,Kids Wear,4.6,1021
+SKU000922,Kids Wear Product 155,H&M,Kids Wear,4.9,22657
+SKU000923,Shirts Product 250,Puma,Shirts,3.9,12374
+SKU000924,T-Shirts Product 299,Levis,T-Shirts,3.4,23274
+SKU000925,School Shoes Product 211,H&M,School Shoes,4.6,7156
+SKU000926,Jeans Product 20,H&M,Jeans,4.4,20864
+SKU000927,Dresses Product 191,Levis,Dresses,4.7,6435
+SKU000928,Face Wash Product 63,HRX,Face Wash,4.1,18503
+SKU000929,Tops Product 102,Roadster,Tops,4.7,3191
+SKU000930,T-Shirts Product 61,Puma,T-Shirts,4.0,9429
+SKU000931,Shirts Product 482,Roadster,Shirts,4.2,23836
+SKU000932,Heels Product 41,HRX,Heels,4.3,10501
+SKU000933,Kids Wear Product 449,Zara,Kids Wear,3.6,23237
+SKU000934,School Shoes Product 173,Puma,School Shoes,4.5,12842
+SKU000935,Dresses Product 148,Campus,Dresses,3.7,1131
+SKU000936,Face Wash Product 324,US Polo,Face Wash,3.2,8747
+SKU000937,School Shoes Product 220,Puma,School Shoes,4.3,7114
+SKU000938,School Shoes Product 114,Zara,School Shoes,4.3,18436
+SKU000939,Lipstick Product 385,Roadster,Lipstick,3.5,19994
+SKU000940,Dresses Product 471,Levis,Dresses,4.0,14035
+SKU000941,Face Wash Product 25,H&M,Face Wash,4.2,3404
+SKU000942,T-Shirts Product 253,Campus,T-Shirts,4.2,2418
+SKU000943,Face Wash Product 367,Puma,Face Wash,4.8,20403
+SKU000944,Heels Product 449,Zara,Heels,4.6,4573
+SKU000945,Perfume Product 292,H&M,Perfume,4.1,23108
+SKU000946,Heels Product 253,Campus,Heels,3.8,3642
+SKU000947,T-Shirts Product 403,H&M,T-Shirts,4.9,2033
+SKU000948,Sneakers Product 390,Roadster,Sneakers,3.8,19826
+SKU000949,Shirts Product 330,H&M,Shirts,4.6,16957
+SKU000950,Perfume Product 72,Zara,Perfume,3.6,18561
+SKU000951,T-Shirts Product 53,Roadster,T-Shirts,4.1,19876
+SKU000952,Lipstick Product 212,Roadster,Lipstick,4.4,16081
+SKU000953,Heels Product 136,Campus,Heels,4.8,14680
+SKU000954,School Shoes Product 216,Levis,School Shoes,3.6,9713
+SKU000955,Jeans Product 385,US Polo,Jeans,4.8,1087
+SKU000956,Sneakers Product 245,Zara,Sneakers,4.3,17731
+SKU000957,Face Wash Product 73,Zara,Face Wash,4.2,6514
+SKU000958,Sneakers Product 257,US Polo,Sneakers,3.5,5718
+SKU000959,Kids Wear Product 155,H&M,Kids Wear,4.1,2265
+SKU000960,Heels Product 392,HRX,Heels,4.6,22246
+SKU000961,Handbags Product 485,Roadster,Handbags,4.9,16356
+SKU000962,Shirts Product 259,Campus,Shirts,4.7,15076
+SKU000963,Kids Wear Product 308,Zara,Kids Wear,4.8,8864
+SKU000964,Perfume Product 207,Campus,Perfume,3.8,8305
+SKU000965,Handbags Product 220,Zara,Handbags,3.4,12176
+SKU000966,Handbags Product 251,Adidas,Handbags,4.5,13038
+SKU000967,Shirts Product 194,Adidas,Shirts,4.9,2717
+SKU000968,Heels Product 317,Zara,Heels,5.0,3498
+SKU000969,Lipstick Product 172,Roadster,Lipstick,3.4,13085
+SKU000970,Handbags Product 455,Adidas,Handbags,4.1,6541
+SKU000971,Heels Product 373,Levis,Heels,4.9,5927
+SKU000972,Sneakers Product 125,Roadster,Sneakers,3.3,392
+SKU000973,T-Shirts Product 455,H&M,T-Shirts,4.7,4669
+SKU000974,Jeans Product 66,US Polo,Jeans,4.2,19963
+SKU000975,School Shoes Product 138,Campus,School Shoes,3.8,2909
+SKU000976,Perfume Product 149,H&M,Perfume,3.9,24347
+SKU000977,Kids Wear Product 381,Levis,Kids Wear,3.9,21486
+SKU000978,T-Shirts Product 198,H&M,T-Shirts,3.8,24015
+SKU000979,Kids Wear Product 126,H&M,Kids Wear,3.8,17918
+SKU000980,Handbags Product 167,Levis,Handbags,4.6,14269
+SKU000981,Lipstick Product 174,Puma,Lipstick,4.3,24225
+SKU000982,Tops Product 135,Roadster,Tops,3.5,2242
+SKU000983,Perfume Product 33,H&M,Perfume,3.3,7532
+SKU000984,Jeans Product 304,Nike,Jeans,3.4,23249
+SKU000985,Dresses Product 248,Campus,Dresses,4.5,17602
+SKU000986,Perfume Product 56,Nike,Perfume,4.7,18590
+SKU000987,Kids Wear Product 455,Zara,Kids Wear,3.5,7952
+SKU000988,T-Shirts Product 273,Campus,T-Shirts,3.8,24966
+SKU000989,Tops Product 498,Roadster,Tops,3.9,6554
+SKU000990,Jeans Product 151,HRX,Jeans,4.6,14781
+SKU000991,T-Shirts Product 55,Puma,T-Shirts,3.5,21757
+SKU000992,Lipstick Product 305,Nike,Lipstick,3.5,17416
+SKU000993,Shirts Product 397,Levis,Shirts,5.0,7783
+SKU000994,School Shoes Product 237,Campus,School Shoes,4.8,5050
+SKU000995,School Shoes Product 118,Puma,School Shoes,4.3,9679
+SKU000996,Perfume Product 81,Campus,Perfume,3.6,21755
+SKU000997,Heels Product 101,US Polo,Heels,4.3,8979
+SKU000998,Perfume Product 487,H&M,Perfume,4.3,22221
+SKU000999,Lipstick Product 94,H&M,Lipstick,4.3,16869
+SKU001000,Face Wash Product 494,Levis,Face Wash,4.9,2738
+SKU001001,School Shoes Product 110,H&M,School Shoes,3.7,16797
+SKU001002,Shirts Product 410,Adidas,Shirts,4.8,5654
+SKU001003,Tops Product 7,Roadster,Tops,4.1,8919
+SKU001004,Sneakers Product 434,Levis,Sneakers,3.3,14895
+SKU001005,Kids Wear Product 473,Roadster,Kids Wear,4.3,22856
+SKU001006,Sneakers Product 97,Zara,Sneakers,4.8,4406
+SKU001007,Handbags Product 500,Puma,Handbags,3.5,7466
+SKU001008,Handbags Product 74,Campus,Handbags,4.4,10950
+SKU001009,Heels Product 374,Adidas,Heels,4.2,20252
+SKU001010,Lipstick Product 181,Nike,Lipstick,3.9,13224
+SKU001011,Shirts Product 183,Nike,Shirts,3.8,14001
+SKU001012,Face Wash Product 191,Puma,Face Wash,3.9,3342
+SKU001013,Lipstick Product 94,Nike,Lipstick,4.9,5550
+SKU001014,School Shoes Product 245,H&M,School Shoes,4.0,6806
+SKU001015,Kids Wear Product 485,H&M,Kids Wear,4.2,23126
+SKU001016,Handbags Product 452,Roadster,Handbags,3.8,13543
+SKU001017,School Shoes Product 336,Levis,School Shoes,4.6,20247
+SKU001018,T-Shirts Product 415,HRX,T-Shirts,4.7,23131
+SKU001019,Heels Product 12,US Polo,Heels,4.3,6719
+SKU001020,Perfume Product 159,Zara,Perfume,3.3,2511
+SKU001021,Perfume Product 76,Levis,Perfume,3.9,11850
+SKU001022,Jeans Product 449,Puma,Jeans,3.7,5442
+SKU001023,School Shoes Product 159,Adidas,School Shoes,3.8,1217
+SKU001024,Heels Product 30,Zara,Heels,4.1,23201
+SKU001025,Face Wash Product 434,Levis,Face Wash,4.4,9090
+SKU001026,Tops Product 246,US Polo,Tops,3.7,19668
+SKU001027,Handbags Product 50,Puma,Handbags,3.8,5289
+SKU001028,School Shoes Product 18,H&M,School Shoes,4.6,6171
+SKU001029,T-Shirts Product 157,HRX,T-Shirts,4.3,13394
+SKU001030,Tops Product 210,US Polo,Tops,4.3,9870
+SKU001031,Lipstick Product 345,Adidas,Lipstick,4.3,13650
+SKU001032,School Shoes Product 120,Zara,School Shoes,4.0,7171
+SKU001033,Sneakers Product 289,Puma,Sneakers,4.0,13461
+SKU001034,Heels Product 266,H&M,Heels,3.4,5954
+SKU001035,Heels Product 391,Zara,Heels,4.8,17449
+SKU001036,Heels Product 230,Adidas,Heels,4.1,8255
+SKU001037,Sneakers Product 118,Campus,Sneakers,4.6,2940
+SKU001038,School Shoes Product 434,Puma,School Shoes,3.7,2517
+SKU001039,Jeans Product 183,Adidas,Jeans,3.4,12203
+SKU001040,Face Wash Product 449,Nike,Face Wash,4.4,12380
+SKU001041,Perfume Product 481,Roadster,Perfume,4.8,19385
+SKU001042,Sneakers Product 448,HRX,Sneakers,4.3,16621
+SKU001043,Kids Wear Product 183,Zara,Kids Wear,4.2,21119
+SKU001044,Shirts Product 197,H&M,Shirts,4.2,16485
+SKU001045,Tops Product 156,Puma,Tops,4.3,11418
+SKU001046,School Shoes Product 392,HRX,School Shoes,4.5,9040
+SKU001047,Perfume Product 241,Levis,Perfume,4.3,21195
+SKU001048,Lipstick Product 431,Zara,Lipstick,4.8,17802
+SKU001049,Face Wash Product 398,Adidas,Face Wash,4.3,5481
+SKU001050,Handbags Product 448,Adidas,Handbags,4.8,15766
+SKU001051,Heels Product 469,Adidas,Heels,5.0,24576
+SKU001052,Jeans Product 231,H&M,Jeans,4.2,22920
+SKU001053,Perfume Product 409,HRX,Perfume,5.0,8221
+SKU001054,Dresses Product 55,Adidas,Dresses,4.9,11802
+SKU001055,Sneakers Product 270,Campus,Sneakers,4.1,7801
+SKU001056,T-Shirts Product 186,Roadster,T-Shirts,3.4,16257
+SKU001057,Sneakers Product 341,HRX,Sneakers,4.9,11249
+SKU001058,Jeans Product 201,Zara,Jeans,4.1,23501
+SKU001059,Kids Wear Product 149,Roadster,Kids Wear,4.9,15208
+SKU001060,Jeans Product 91,Adidas,Jeans,4.1,14868
+SKU001061,Face Wash Product 14,Campus,Face Wash,3.8,16388
+SKU001062,Sneakers Product 354,HRX,Sneakers,4.3,5605
+SKU001063,Kids Wear Product 246,Levis,Kids Wear,4.5,471
+SKU001064,Lipstick Product 12,US Polo,Lipstick,4.4,11793
+SKU001065,School Shoes Product 345,HRX,School Shoes,4.4,18827
+SKU001066,Face Wash Product 115,H&M,Face Wash,4.5,20295
+SKU001067,School Shoes Product 11,Nike,School Shoes,4.6,23949
+SKU001068,Tops Product 410,H&M,Tops,4.1,6539
+SKU001069,School Shoes Product 458,Adidas,School Shoes,4.3,3805
+SKU001070,T-Shirts Product 361,US Polo,T-Shirts,4.7,1409
+SKU001071,Dresses Product 408,Roadster,Dresses,4.6,24660
+SKU001072,Kids Wear Product 383,US Polo,Kids Wear,4.9,12536
+SKU001073,Handbags Product 245,Puma,Handbags,3.3,21255
+SKU001074,Handbags Product 424,Levis,Handbags,4.1,6156
+SKU001075,Tops Product 51,H&M,Tops,3.9,2778
+SKU001076,Perfume Product 22,Puma,Perfume,3.5,7902
+SKU001077,Perfume Product 405,Campus,Perfume,4.2,21657
+SKU001078,Kids Wear Product 405,H&M,Kids Wear,4.3,4272
+SKU001079,Perfume Product 59,Campus,Perfume,3.3,15408
+SKU001080,Heels Product 426,HRX,Heels,3.6,9029
+SKU001081,Sneakers Product 15,Campus,Sneakers,4.8,20740
+SKU001082,Tops Product 247,Puma,Tops,4.5,6928
+SKU001083,School Shoes Product 54,H&M,School Shoes,4.2,8046
+SKU001084,Jeans Product 193,HRX,Jeans,3.9,9511
+SKU001085,Handbags Product 34,HRX,Handbags,4.8,15713
+SKU001086,Heels Product 271,Roadster,Heels,4.9,9046
+SKU001087,Dresses Product 314,US Polo,Dresses,4.9,6711
+SKU001088,Heels Product 432,HRX,Heels,4.0,9075
+SKU001089,Dresses Product 132,Puma,Dresses,3.4,12103
+SKU001090,Kids Wear Product 474,Nike,Kids Wear,3.7,7985
+SKU001091,Tops Product 496,Adidas,Tops,3.8,539
+SKU001092,Shirts Product 258,Zara,Shirts,4.7,3042
+SKU001093,Face Wash Product 267,HRX,Face Wash,3.2,24338
+SKU001094,School Shoes Product 169,US Polo,School Shoes,4.4,4521
+SKU001095,T-Shirts Product 346,US Polo,T-Shirts,4.4,16972
+SKU001096,Jeans Product 287,Campus,Jeans,4.8,18808
+SKU001097,Face Wash Product 326,US Polo,Face Wash,3.2,10897
+SKU001098,Shirts Product 348,H&M,Shirts,4.3,6525
+SKU001099,Lipstick Product 28,Campus,Lipstick,4.6,9148
+SKU001100,Dresses Product 80,Adidas,Dresses,4.5,13951
+SKU001101,Face Wash Product 227,Zara,Face Wash,3.8,22093
+SKU001102,School Shoes Product 382,US Polo,School Shoes,4.9,7264
+SKU001103,Sneakers Product 84,Roadster,Sneakers,4.5,6405
+SKU001104,Heels Product 92,Zara,Heels,4.4,19086
+SKU001105,Kids Wear Product 145,Zara,Kids Wear,4.1,6442
+SKU001106,Kids Wear Product 337,Puma,Kids Wear,3.4,21236
+SKU001107,Dresses Product 365,HRX,Dresses,4.3,15967
+SKU001108,T-Shirts Product 213,Puma,T-Shirts,3.6,10471
+SKU001109,Sneakers Product 121,Roadster,Sneakers,3.3,18677
+SKU001110,Tops Product 208,Adidas,Tops,4.8,17067
+SKU001111,Face Wash Product 382,HRX,Face Wash,4.3,18187
+SKU001112,Heels Product 265,Nike,Heels,3.3,4088
+SKU001113,Handbags Product 326,Zara,Handbags,4.6,14697
+SKU001114,Lipstick Product 48,HRX,Lipstick,3.8,17808
+SKU001115,Heels Product 371,Nike,Heels,4.5,4672
+SKU001116,School Shoes Product 323,US Polo,School Shoes,3.6,14602
+SKU001117,Face Wash Product 319,H&M,Face Wash,3.3,3818
+SKU001118,Kids Wear Product 276,Nike,Kids Wear,3.8,2910
+SKU001119,School Shoes Product 323,Zara,School Shoes,4.6,735
+SKU001120,Shirts Product 247,H&M,Shirts,3.2,16940
+SKU001121,Tops Product 488,US Polo,Tops,4.6,19445
+SKU001122,Jeans Product 275,Nike,Jeans,4.4,806
+SKU001123,Shirts Product 460,Adidas,Shirts,3.6,14408
+SKU001124,Tops Product 393,HRX,Tops,4.7,14323
+SKU001125,Lipstick Product 71,US Polo,Lipstick,3.2,22674
+SKU001126,Lipstick Product 368,HRX,Lipstick,3.4,8849
+SKU001127,Perfume Product 182,Puma,Perfume,4.6,20822
+SKU001128,Kids Wear Product 265,Zara,Kids Wear,4.7,2162
+SKU001129,School Shoes Product 130,Campus,School Shoes,3.8,16358
+SKU001130,Shirts Product 439,H&M,Shirts,3.7,18781
+SKU001131,Face Wash Product 487,Levis,Face Wash,4.1,12438
+SKU001132,Heels Product 194,Roadster,Heels,4.0,16509
+SKU001133,Jeans Product 403,Adidas,Jeans,4.8,16319
+SKU001134,T-Shirts Product 302,HRX,T-Shirts,3.7,4081
+SKU001135,Tops Product 435,US Polo,Tops,4.4,5382
+SKU001136,School Shoes Product 24,HRX,School Shoes,4.4,17869
+SKU001137,Shirts Product 257,Adidas,Shirts,3.3,17421
+SKU001138,Heels Product 120,Zara,Heels,4.3,22654
+SKU001139,Kids Wear Product 281,Puma,Kids Wear,4.2,10427
+SKU001140,Kids Wear Product 491,Nike,Kids Wear,4.3,14852
+SKU001141,Handbags Product 362,US Polo,Handbags,3.7,3380
+SKU001142,Perfume Product 456,Adidas,Perfume,4.6,22373
+SKU001143,Lipstick Product 185,Puma,Lipstick,4.1,5786
+SKU001144,Sneakers Product 191,Adidas,Sneakers,3.2,20988
+SKU001145,Dresses Product 46,HRX,Dresses,3.3,15807
+SKU001146,Sneakers Product 219,Roadster,Sneakers,3.8,16255
+SKU001147,Sneakers Product 17,Campus,Sneakers,4.1,8320
+SKU001148,T-Shirts Product 465,US Polo,T-Shirts,3.5,12460
+SKU001149,School Shoes Product 28,Nike,School Shoes,3.6,4816
+SKU001150,Jeans Product 121,Levis,Jeans,4.0,8782
+SKU001151,Lipstick Product 370,Puma,Lipstick,3.7,16135
+SKU001152,Perfume Product 139,Roadster,Perfume,3.8,22428
+SKU001153,Shirts Product 236,Roadster,Shirts,4.7,22539
+SKU001154,Face Wash Product 267,Nike,Face Wash,4.3,6794
+SKU001155,Sneakers Product 1,Campus,Sneakers,4.6,11438
+SKU001156,Handbags Product 347,Adidas,Handbags,4.5,8218
+SKU001157,School Shoes Product 367,Levis,School Shoes,4.4,8649
+SKU001158,Perfume Product 446,Zara,Perfume,3.8,22754
+SKU001159,Shirts Product 418,Campus,Shirts,3.7,24512
+SKU001160,School Shoes Product 42,H&M,School Shoes,4.5,3347
+SKU001161,Kids Wear Product 483,HRX,Kids Wear,4.2,399
+SKU001162,Kids Wear Product 177,Campus,Kids Wear,4.1,8870
+SKU001163,Jeans Product 73,Puma,Jeans,4.0,6269
+SKU001164,Dresses Product 309,Adidas,Dresses,3.7,7781
+SKU001165,Face Wash Product 362,Levis,Face Wash,3.8,10611
+SKU001166,Kids Wear Product 322,Adidas,Kids Wear,3.7,989
+SKU001167,Shirts Product 409,US Polo,Shirts,4.7,20732
+SKU001168,Sneakers Product 90,US Polo,Sneakers,4.6,21086
+SKU001169,Heels Product 99,US Polo,Heels,4.8,11784
+SKU001170,Handbags Product 292,Campus,Handbags,3.5,23669
+SKU001171,Shirts Product 440,H&M,Shirts,4.0,14676
+SKU001172,Face Wash Product 176,US Polo,Face Wash,5.0,4617
+SKU001173,Lipstick Product 25,Puma,Lipstick,4.8,13578
+SKU001174,Jeans Product 425,Levis,Jeans,4.0,3042
+SKU001175,Tops Product 419,Nike,Tops,3.9,18651
+SKU001176,Shirts Product 496,Puma,Shirts,3.2,19859
+SKU001177,Perfume Product 18,Adidas,Perfume,3.8,615
+SKU001178,Tops Product 309,H&M,Tops,4.9,9259
+SKU001179,Perfume Product 45,Roadster,Perfume,4.7,19723
+SKU001180,Handbags Product 232,Levis,Handbags,4.7,344
+SKU001181,Kids Wear Product 500,HRX,Kids Wear,4.2,14704
+SKU001182,Tops Product 98,Roadster,Tops,3.9,22137
+SKU001183,Sneakers Product 71,Campus,Sneakers,3.2,2631
+SKU001184,Lipstick Product 215,Zara,Lipstick,3.4,11603
+SKU001185,Kids Wear Product 464,US Polo,Kids Wear,4.1,16363
+SKU001186,Perfume Product 123,Nike,Perfume,4.4,22074
+SKU001187,Handbags Product 49,Zara,Handbags,4.9,5933
+SKU001188,Sneakers Product 66,Puma,Sneakers,3.9,724
+SKU001189,Handbags Product 334,Zara,Handbags,4.3,22756
+SKU001190,School Shoes Product 228,Adidas,School Shoes,3.6,8417
+SKU001191,School Shoes Product 377,Levis,School Shoes,4.8,17278
+SKU001192,Perfume Product 11,Levis,Perfume,3.8,5954
+SKU001193,Jeans Product 207,Nike,Jeans,3.3,2934
+SKU001194,Sneakers Product 183,Zara,Sneakers,4.6,6192
+SKU001195,Sneakers Product 329,Nike,Sneakers,4.0,23195
+SKU001196,Sneakers Product 158,Adidas,Sneakers,3.9,16539
+SKU001197,Perfume Product 48,HRX,Perfume,4.8,2953
+SKU001198,T-Shirts Product 181,Zara,T-Shirts,4.9,7968
+SKU001199,Shirts Product 182,Nike,Shirts,4.3,3407
+SKU001200,School Shoes Product 278,Roadster,School Shoes,4.9,620
+SKU001201,Handbags Product 120,Campus,Handbags,4.6,18949
+SKU001202,Lipstick Product 23,US Polo,Lipstick,4.4,13620
+SKU001203,T-Shirts Product 383,US Polo,T-Shirts,4.1,241
+SKU001204,Shirts Product 167,Adidas,Shirts,3.4,16433
+SKU001205,Handbags Product 152,H&M,Handbags,4.5,1708
+SKU001206,Sneakers Product 314,HRX,Sneakers,3.5,8871
+SKU001207,Kids Wear Product 357,Campus,Kids Wear,4.7,6007
+SKU001208,Perfume Product 181,Levis,Perfume,4.7,11295
+SKU001209,Face Wash Product 290,Campus,Face Wash,4.0,22024
+SKU001210,Shirts Product 7,US Polo,Shirts,3.2,3165
+SKU001211,Dresses Product 123,Roadster,Dresses,4.9,14008
+SKU001212,Perfume Product 34,Levis,Perfume,4.8,12941
+SKU001213,Jeans Product 258,US Polo,Jeans,3.5,18859
+SKU001214,T-Shirts Product 435,HRX,T-Shirts,3.9,6777
+SKU001215,Heels Product 73,US Polo,Heels,5.0,19903
+SKU001216,Tops Product 164,US Polo,Tops,4.8,3257
+SKU001217,T-Shirts Product 291,HRX,T-Shirts,4.2,15096
+SKU001218,Tops Product 109,Campus,Tops,4.0,863
+SKU001219,T-Shirts Product 408,HRX,T-Shirts,4.9,3657
+SKU001220,Jeans Product 219,Zara,Jeans,4.7,11272
+SKU001221,Lipstick Product 403,Puma,Lipstick,3.5,3317
+SKU001222,School Shoes Product 404,Roadster,School Shoes,4.1,8275
+SKU001223,T-Shirts Product 437,Campus,T-Shirts,3.7,8496
+SKU001224,Perfume Product 99,Levis,Perfume,4.9,3833
+SKU001225,Perfume Product 391,Roadster,Perfume,3.8,9367
+SKU001226,Heels Product 435,Adidas,Heels,4.7,561
+SKU001227,Lipstick Product 430,Nike,Lipstick,3.5,10066
+SKU001228,Perfume Product 154,Puma,Perfume,3.4,507
+SKU001229,Tops Product 80,H&M,Tops,3.6,4692
+SKU001230,Shirts Product 142,HRX,Shirts,3.5,4051
+SKU001231,Kids Wear Product 47,US Polo,Kids Wear,4.3,23905
+SKU001232,Tops Product 298,Campus,Tops,4.8,17847
+SKU001233,T-Shirts Product 168,HRX,T-Shirts,3.7,11168
+SKU001234,Lipstick Product 370,Campus,Lipstick,3.3,15445
+SKU001235,Face Wash Product 119,Campus,Face Wash,4.2,22841
+SKU001236,T-Shirts Product 115,H&M,T-Shirts,4.7,24233
+SKU001237,Dresses Product 461,Zara,Dresses,4.6,21694
+SKU001238,Lipstick Product 244,Adidas,Lipstick,4.4,4873
+SKU001239,Sneakers Product 167,Roadster,Sneakers,5.0,7738
+SKU001240,Dresses Product 195,Puma,Dresses,4.8,9224
+SKU001241,Kids Wear Product 86,US Polo,Kids Wear,3.9,12343
+SKU001242,T-Shirts Product 1,Roadster,T-Shirts,4.8,14267
+SKU001243,Lipstick Product 440,Campus,Lipstick,4.0,3270
+SKU001244,Lipstick Product 414,Adidas,Lipstick,4.7,16822
+SKU001245,Shirts Product 344,Zara,Shirts,4.2,19442
+SKU001246,School Shoes Product 138,Puma,School Shoes,4.8,24003
+SKU001247,Lipstick Product 246,Levis,Lipstick,4.4,6651
+SKU001248,Kids Wear Product 351,H&M,Kids Wear,4.2,13885
+SKU001249,Sneakers Product 427,Zara,Sneakers,3.3,9205
+SKU001250,Perfume Product 46,Puma,Perfume,4.4,21347
+SKU001251,Lipstick Product 421,Puma,Lipstick,4.2,8516
+SKU001252,Jeans Product 454,Nike,Jeans,4.5,19953
+SKU001253,Kids Wear Product 96,Zara,Kids Wear,3.9,23553
+SKU001254,School Shoes Product 129,H&M,School Shoes,4.9,1960
+SKU001255,Lipstick Product 199,Adidas,Lipstick,3.3,2299
+SKU001256,Kids Wear Product 240,US Polo,Kids Wear,4.8,24577
+SKU001257,Lipstick Product 26,US Polo,Lipstick,3.6,7410
+SKU001258,T-Shirts Product 65,Roadster,T-Shirts,3.2,13847
+SKU001259,School Shoes Product 312,Nike,School Shoes,3.6,17572
+SKU001260,Kids Wear Product 58,Nike,Kids Wear,3.3,11677
+SKU001261,Tops Product 164,H&M,Tops,4.7,21999
+SKU001262,Kids Wear Product 179,Adidas,Kids Wear,4.1,23042
+SKU001263,Tops Product 123,Levis,Tops,4.1,18064
+SKU001264,Jeans Product 203,H&M,Jeans,4.9,24067
+SKU001265,Kids Wear Product 185,Levis,Kids Wear,4.1,22004
+SKU001266,Dresses Product 496,Campus,Dresses,4.7,15857
+SKU001267,Jeans Product 428,Zara,Jeans,3.6,4117
+SKU001268,School Shoes Product 444,Roadster,School Shoes,4.0,4217
+SKU001269,T-Shirts Product 375,Adidas,T-Shirts,3.2,21903
+SKU001270,Handbags Product 463,Campus,Handbags,4.2,3477
+SKU001271,Face Wash Product 50,Adidas,Face Wash,3.9,11798
+SKU001272,Dresses Product 500,Levis,Dresses,3.7,6056
+SKU001273,T-Shirts Product 316,US Polo,T-Shirts,4.2,17610
+SKU001274,Face Wash Product 328,Campus,Face Wash,3.4,7426
+SKU001275,Kids Wear Product 380,Puma,Kids Wear,3.9,12344
+SKU001276,School Shoes Product 157,Nike,School Shoes,4.6,175
+SKU001277,Shirts Product 25,US Polo,Shirts,4.0,18054
+SKU001278,Handbags Product 55,Puma,Handbags,3.3,10281
+SKU001279,Jeans Product 249,Puma,Jeans,4.9,4244
+SKU001280,Sneakers Product 103,Campus,Sneakers,3.6,10641
+SKU001281,School Shoes Product 353,H&M,School Shoes,4.0,4740
+SKU001282,School Shoes Product 315,Levis,School Shoes,3.4,22950
+SKU001283,Heels Product 456,Adidas,Heels,4.5,20416
+SKU001284,Jeans Product 419,Nike,Jeans,4.1,6994
+SKU001285,Jeans Product 169,Nike,Jeans,3.3,6580
+SKU001286,T-Shirts Product 445,Puma,T-Shirts,3.7,798
+SKU001287,Jeans Product 264,Roadster,Jeans,3.7,15881
+SKU001288,Dresses Product 228,Campus,Dresses,4.2,22393
+SKU001289,T-Shirts Product 420,US Polo,T-Shirts,4.4,21794
+SKU001290,Face Wash Product 206,US Polo,Face Wash,4.9,14959
+SKU001291,Heels Product 381,HRX,Heels,4.1,1537
+SKU001292,Lipstick Product 182,HRX,Lipstick,3.7,10283
+SKU001293,Sneakers Product 426,H&M,Sneakers,3.4,5036
+SKU001294,Lipstick Product 205,Zara,Lipstick,4.8,13142
+SKU001295,Lipstick Product 262,Puma,Lipstick,5.0,22329
+SKU001296,Dresses Product 95,Puma,Dresses,3.3,16790
+SKU001297,Sneakers Product 444,Zara,Sneakers,3.9,16350
+SKU001298,Face Wash Product 276,Adidas,Face Wash,4.9,19313
+SKU001299,Lipstick Product 436,Nike,Lipstick,3.8,12841
+SKU001300,Shirts Product 163,Levis,Shirts,3.2,13975
+SKU001301,Kids Wear Product 6,Puma,Kids Wear,4.2,16606
+SKU001302,Sneakers Product 38,US Polo,Sneakers,3.7,13560
+SKU001303,School Shoes Product 181,Puma,School Shoes,4.8,6380
+SKU001304,School Shoes Product 279,HRX,School Shoes,4.5,17153
+SKU001305,Shirts Product 11,US Polo,Shirts,3.3,3929
+SKU001306,Jeans Product 481,Adidas,Jeans,4.6,4860
+SKU001307,Face Wash Product 412,Zara,Face Wash,4.6,6140
+SKU001308,Jeans Product 428,HRX,Jeans,3.6,16580
+SKU001309,Face Wash Product 252,US Polo,Face Wash,3.4,10376
+SKU001310,Heels Product 446,Puma,Heels,4.3,4910
+SKU001311,Kids Wear Product 338,Puma,Kids Wear,3.6,19088
+SKU001312,School Shoes Product 65,Nike,School Shoes,4.1,7684
+SKU001313,Kids Wear Product 262,Levis,Kids Wear,4.2,3370
+SKU001314,Shirts Product 287,Roadster,Shirts,4.7,7412
+SKU001315,Dresses Product 335,Adidas,Dresses,4.2,3904
+SKU001316,Heels Product 316,Adidas,Heels,3.4,10603
+SKU001317,Perfume Product 377,Nike,Perfume,4.2,17854
+SKU001318,Kids Wear Product 270,Puma,Kids Wear,3.5,16113
+SKU001319,Tops Product 338,Campus,Tops,4.5,2201
+SKU001320,T-Shirts Product 432,H&M,T-Shirts,4.0,2078
+SKU001321,Perfume Product 403,Roadster,Perfume,3.3,2420
+SKU001322,Face Wash Product 196,Campus,Face Wash,3.8,13625
+SKU001323,Shirts Product 286,Nike,Shirts,4.3,4282
+SKU001324,Lipstick Product 78,Adidas,Lipstick,3.5,12439
+SKU001325,Kids Wear Product 396,Campus,Kids Wear,4.6,8371
+SKU001326,Tops Product 279,Roadster,Tops,4.5,943
+SKU001327,Kids Wear Product 416,US Polo,Kids Wear,3.6,12026
+SKU001328,Handbags Product 396,Adidas,Handbags,4.3,17550
+SKU001329,Lipstick Product 81,Adidas,Lipstick,4.8,14287
+SKU001330,Perfume Product 36,Adidas,Perfume,4.7,17698
+SKU001331,T-Shirts Product 425,US Polo,T-Shirts,4.7,24388
+SKU001332,Jeans Product 239,Levis,Jeans,3.9,3007
+SKU001333,T-Shirts Product 18,Puma,T-Shirts,4.2,2363
+SKU001334,Perfume Product 165,Levis,Perfume,4.5,7097
+SKU001335,Heels Product 313,Levis,Heels,4.2,14266
+SKU001336,Shirts Product 196,H&M,Shirts,3.8,12059
+SKU001337,School Shoes Product 79,HRX,School Shoes,4.0,5532
+SKU001338,Lipstick Product 364,Roadster,Lipstick,4.6,99
+SKU001339,T-Shirts Product 152,US Polo,T-Shirts,4.6,14589
+SKU001340,Sneakers Product 377,Nike,Sneakers,4.3,18470
+SKU001341,Lipstick Product 157,Puma,Lipstick,4.0,3577
+SKU001342,School Shoes Product 390,Adidas,School Shoes,4.0,22070
+SKU001343,T-Shirts Product 35,Campus,T-Shirts,4.5,18865
+SKU001344,Lipstick Product 45,Adidas,Lipstick,3.7,14603
+SKU001345,Kids Wear Product 378,Roadster,Kids Wear,4.4,14575
+SKU001346,Kids Wear Product 52,Campus,Kids Wear,3.4,6260
+SKU001347,Lipstick Product 113,Adidas,Lipstick,4.7,12202
+SKU001348,Shirts Product 106,Levis,Shirts,3.9,761
+SKU001349,Kids Wear Product 289,Levis,Kids Wear,3.7,4516
+SKU001350,Face Wash Product 433,US Polo,Face Wash,3.5,203
+SKU001351,Face Wash Product 146,US Polo,Face Wash,3.5,16896
+SKU001352,Perfume Product 320,HRX,Perfume,3.5,7562
+SKU001353,Jeans Product 304,Campus,Jeans,4.1,23327
+SKU001354,Dresses Product 270,Adidas,Dresses,4.7,10797
+SKU001355,Shirts Product 85,Adidas,Shirts,4.0,6599
+SKU001356,School Shoes Product 77,Adidas,School Shoes,3.6,22347
+SKU001357,Jeans Product 406,Campus,Jeans,4.2,5638
+SKU001358,Face Wash Product 166,H&M,Face Wash,4.2,1624
+SKU001359,Shirts Product 72,US Polo,Shirts,5.0,7218
+SKU001360,Kids Wear Product 231,Campus,Kids Wear,3.5,12121
+SKU001361,Face Wash Product 175,Roadster,Face Wash,3.9,4427
+SKU001362,Tops Product 132,Zara,Tops,4.3,1059
+SKU001363,Kids Wear Product 8,Zara,Kids Wear,4.7,14397
+SKU001364,Kids Wear Product 274,Levis,Kids Wear,3.7,15098
+SKU001365,T-Shirts Product 254,HRX,T-Shirts,4.3,20392
+SKU001366,Dresses Product 171,Roadster,Dresses,3.4,21719
+SKU001367,Tops Product 479,HRX,Tops,4.0,17091
+SKU001368,School Shoes Product 121,Puma,School Shoes,4.1,19610
+SKU001369,Shirts Product 194,Nike,Shirts,4.9,5193
+SKU001370,Dresses Product 105,US Polo,Dresses,4.8,12668
+SKU001371,Face Wash Product 421,Roadster,Face Wash,3.3,17474
+SKU001372,Heels Product 154,HRX,Heels,4.8,7755
+SKU001373,Tops Product 304,H&M,Tops,4.6,14846
+SKU001374,Tops Product 26,Adidas,Tops,4.3,11543
+SKU001375,Lipstick Product 437,Levis,Lipstick,3.5,13956
+SKU001376,T-Shirts Product 455,Campus,T-Shirts,4.6,1363
+SKU001377,School Shoes Product 176,Nike,School Shoes,4.6,22004
+SKU001378,Dresses Product 323,Adidas,Dresses,3.9,9422
+SKU001379,Tops Product 55,Adidas,Tops,4.9,3293
+SKU001380,School Shoes Product 375,Puma,School Shoes,3.6,20608
+SKU001381,Handbags Product 261,Roadster,Handbags,4.8,21209
+SKU001382,Kids Wear Product 472,Roadster,Kids Wear,4.8,151
+SKU001383,Sneakers Product 333,Levis,Sneakers,4.8,8043
+SKU001384,Tops Product 3,Campus,Tops,3.8,6222
+SKU001385,Sneakers Product 84,Levis,Sneakers,3.5,7587
+SKU001386,Lipstick Product 292,US Polo,Lipstick,4.6,9466
+SKU001387,Lipstick Product 104,Adidas,Lipstick,3.9,15196
+SKU001388,T-Shirts Product 465,Zara,T-Shirts,4.7,18605
+SKU001389,T-Shirts Product 437,Levis,T-Shirts,3.3,19077
+SKU001390,Kids Wear Product 199,Campus,Kids Wear,3.3,13320
+SKU001391,School Shoes Product 423,Levis,School Shoes,4.7,13480
+SKU001392,Kids Wear Product 123,Adidas,Kids Wear,3.3,9097
+SKU001393,Kids Wear Product 249,Nike,Kids Wear,4.6,16851
+SKU001394,T-Shirts Product 453,Nike,T-Shirts,4.3,6363
+SKU001395,Kids Wear Product 11,HRX,Kids Wear,3.7,13688
+SKU001396,School Shoes Product 166,Puma,School Shoes,5.0,7261
+SKU001397,Perfume Product 12,H&M,Perfume,3.6,23244
+SKU001398,Handbags Product 389,HRX,Handbags,4.8,18326
+SKU001399,School Shoes Product 259,Zara,School Shoes,4.5,928
+SKU001400,Face Wash Product 313,Nike,Face Wash,3.9,840
+SKU001401,Face Wash Product 42,Puma,Face Wash,3.9,12147
+SKU001402,Kids Wear Product 427,HRX,Kids Wear,3.8,8982
+SKU001403,Kids Wear Product 139,Campus,Kids Wear,4.7,4475
+SKU001404,Lipstick Product 365,Zara,Lipstick,4.6,1485
+SKU001405,Heels Product 237,Nike,Heels,4.5,4460
+SKU001406,Face Wash Product 109,Campus,Face Wash,3.3,4715
+SKU001407,Heels Product 174,US Polo,Heels,4.4,715
+SKU001408,Jeans Product 58,Levis,Jeans,4.7,18453
+SKU001409,Sneakers Product 335,US Polo,Sneakers,4.2,4197
+SKU001410,Shirts Product 459,H&M,Shirts,3.7,5002
+SKU001411,Perfume Product 483,HRX,Perfume,4.5,6390
+SKU001412,School Shoes Product 74,Zara,School Shoes,4.7,20793
+SKU001413,Heels Product 350,Puma,Heels,4.7,3328
+SKU001414,School Shoes Product 386,Levis,School Shoes,3.3,17011
+SKU001415,Kids Wear Product 167,Campus,Kids Wear,3.5,24670
+SKU001416,Lipstick Product 184,Nike,Lipstick,4.8,16012
+SKU001417,Kids Wear Product 152,Zara,Kids Wear,3.8,23786
+SKU001418,Sneakers Product 372,US Polo,Sneakers,3.9,6063
+SKU001419,School Shoes Product 329,HRX,School Shoes,4.2,23073
+SKU001420,Perfume Product 438,US Polo,Perfume,3.6,20776
+SKU001421,Heels Product 135,Roadster,Heels,3.5,24575
+SKU001422,School Shoes Product 360,Levis,School Shoes,4.5,4608
+SKU001423,Sneakers Product 495,Puma,Sneakers,4.8,23694
+SKU001424,Perfume Product 462,Adidas,Perfume,3.3,18045
+SKU001425,Jeans Product 98,Puma,Jeans,4.2,22957
+SKU001426,Lipstick Product 191,Puma,Lipstick,4.4,6854
+SKU001427,Face Wash Product 166,US Polo,Face Wash,3.2,4476
+SKU001428,Lipstick Product 64,Levis,Lipstick,3.4,3353
+SKU001429,Tops Product 288,H&M,Tops,3.5,12328
+SKU001430,Lipstick Product 78,H&M,Lipstick,4.7,24437
+SKU001431,Kids Wear Product 333,H&M,Kids Wear,3.5,3546
+SKU001432,Jeans Product 188,Adidas,Jeans,3.6,12283
+SKU001433,Kids Wear Product 383,Levis,Kids Wear,4.2,3338
+SKU001434,School Shoes Product 378,Zara,School Shoes,3.8,2537
+SKU001435,School Shoes Product 303,Levis,School Shoes,3.5,19125
+SKU001436,Perfume Product 354,H&M,Perfume,4.8,17749
+SKU001437,Kids Wear Product 262,Campus,Kids Wear,4.9,2354
+SKU001438,Sneakers Product 150,HRX,Sneakers,3.6,16323
+SKU001439,School Shoes Product 363,Levis,School Shoes,4.4,11813
+SKU001440,Jeans Product 303,HRX,Jeans,4.1,16940
+SKU001441,Face Wash Product 442,Levis,Face Wash,4.6,20191
+SKU001442,Shirts Product 76,Puma,Shirts,4.5,13754
+SKU001443,Lipstick Product 43,US Polo,Lipstick,3.4,15319
+SKU001444,Kids Wear Product 114,Puma,Kids Wear,4.2,15486
+SKU001445,Shirts Product 330,Puma,Shirts,4.3,4016
+SKU001446,Dresses Product 490,Roadster,Dresses,3.7,20840
+SKU001447,Jeans Product 361,Nike,Jeans,3.6,8260
+SKU001448,Lipstick Product 88,Puma,Lipstick,4.1,18488
+SKU001449,Kids Wear Product 83,Nike,Kids Wear,4.5,19718
+SKU001450,Perfume Product 148,Zara,Perfume,3.3,10031
+SKU001451,Jeans Product 147,HRX,Jeans,3.5,3523
+SKU001452,Dresses Product 162,Puma,Dresses,3.7,1864
+SKU001453,Kids Wear Product 234,Adidas,Kids Wear,3.6,1849
+SKU001454,School Shoes Product 182,US Polo,School Shoes,3.7,2073
+SKU001455,Sneakers Product 39,Campus,Sneakers,5.0,11012
+SKU001456,Kids Wear Product 303,Puma,Kids Wear,4.7,14586
+SKU001457,School Shoes Product 260,Zara,School Shoes,4.4,14041
+SKU001458,Face Wash Product 414,H&M,Face Wash,4.2,14190
+SKU001459,Kids Wear Product 406,H&M,Kids Wear,3.3,23176
+SKU001460,Heels Product 97,Campus,Heels,4.0,24860
+SKU001461,Face Wash Product 7,HRX,Face Wash,4.7,10755
+SKU001462,Perfume Product 160,Zara,Perfume,3.4,21907
+SKU001463,Heels Product 167,HRX,Heels,3.6,8620
+SKU001464,Face Wash Product 405,Zara,Face Wash,4.0,5872
+SKU001465,Kids Wear Product 61,Adidas,Kids Wear,3.6,10528
+SKU001466,Sneakers Product 35,Nike,Sneakers,3.7,13896
+SKU001467,Lipstick Product 494,Levis,Lipstick,5.0,6304
+SKU001468,Face Wash Product 105,HRX,Face Wash,4.6,17886
+SKU001469,Face Wash Product 53,US Polo,Face Wash,3.6,13091
+SKU001470,Tops Product 201,Adidas,Tops,4.8,4546
+SKU001471,Dresses Product 436,Zara,Dresses,3.6,22706
+SKU001472,Lipstick Product 316,Nike,Lipstick,4.9,6755
+SKU001473,School Shoes Product 93,Levis,School Shoes,4.1,18007
+SKU001474,Jeans Product 168,H&M,Jeans,3.7,17617
+SKU001475,School Shoes Product 251,US Polo,School Shoes,3.8,6326
+SKU001476,Perfume Product 127,Nike,Perfume,3.5,4245
+SKU001477,T-Shirts Product 173,Campus,T-Shirts,4.1,4956
+SKU001478,Kids Wear Product 103,Levis,Kids Wear,4.4,16983
+SKU001479,Shirts Product 444,Campus,Shirts,3.9,19930
+SKU001480,T-Shirts Product 220,HRX,T-Shirts,4.4,11020
+SKU001481,Perfume Product 190,HRX,Perfume,3.6,11984
+SKU001482,Lipstick Product 36,Zara,Lipstick,3.6,13974
+SKU001483,Handbags Product 285,US Polo,Handbags,4.9,19995
+SKU001484,Tops Product 366,Adidas,Tops,3.7,22964
+SKU001485,Kids Wear Product 428,Nike,Kids Wear,3.3,18439
+SKU001486,Perfume Product 497,Roadster,Perfume,4.1,819
+SKU001487,Tops Product 2,Roadster,Tops,4.1,8871
+SKU001488,Shirts Product 304,Nike,Shirts,3.3,17331
+SKU001489,Dresses Product 118,Nike,Dresses,3.7,6923
+SKU001490,Jeans Product 358,Levis,Jeans,4.3,9624
+SKU001491,Sneakers Product 111,Adidas,Sneakers,3.4,21694
+SKU001492,Kids Wear Product 23,Nike,Kids Wear,4.5,20966
+SKU001493,Dresses Product 143,Roadster,Dresses,3.3,21972
+SKU001494,Tops Product 340,Puma,Tops,4.0,9867
+SKU001495,Lipstick Product 55,Roadster,Lipstick,4.2,19619
+SKU001496,Kids Wear Product 22,Puma,Kids Wear,3.3,21594
+SKU001497,Sneakers Product 318,Zara,Sneakers,4.7,12260
+SKU001498,Kids Wear Product 336,Adidas,Kids Wear,4.6,2187
+SKU001499,Jeans Product 475,Puma,Jeans,3.9,15806
+SKU001500,Sneakers Product 109,H&M,Sneakers,3.7,2932
+SKU001501,Dresses Product 379,US Polo,Dresses,4.7,15624
+SKU001502,Tops Product 70,Campus,Tops,4.2,2617
+SKU001503,School Shoes Product 443,Nike,School Shoes,4.9,2162
+SKU001504,Heels Product 480,Puma,Heels,4.8,15826
+SKU001505,Heels Product 480,Puma,Heels,3.2,24918
+SKU001506,Face Wash Product 232,Zara,Face Wash,4.9,10175
+SKU001507,Handbags Product 212,HRX,Handbags,3.4,11966
+SKU001508,Lipstick Product 447,Roadster,Lipstick,4.0,16628
+SKU001509,Handbags Product 335,Levis,Handbags,4.2,11297
+SKU001510,School Shoes Product 368,HRX,School Shoes,5.0,14289
+SKU001511,Kids Wear Product 463,Nike,Kids Wear,3.7,14436
+SKU001512,School Shoes Product 339,Puma,School Shoes,3.6,11445
+SKU001513,Perfume Product 31,Roadster,Perfume,4.8,23344
+SKU001514,Perfume Product 324,Roadster,Perfume,5.0,6232
+SKU001515,Face Wash Product 160,Zara,Face Wash,3.4,19152
+SKU001516,School Shoes Product 206,H&M,School Shoes,4.9,14178
+SKU001517,School Shoes Product 377,Zara,School Shoes,4.0,2439
+SKU001518,Jeans Product 206,Zara,Jeans,4.3,9166
+SKU001519,Lipstick Product 268,Levis,Lipstick,3.5,19919
+SKU001520,School Shoes Product 44,US Polo,School Shoes,3.7,18692
+SKU001521,Kids Wear Product 86,Nike,Kids Wear,4.6,24264
+SKU001522,Heels Product 147,Adidas,Heels,3.3,12234
+SKU001523,Tops Product 472,Adidas,Tops,4.7,21651
+SKU001524,Kids Wear Product 400,Levis,Kids Wear,4.6,443
+SKU001525,T-Shirts Product 494,Puma,T-Shirts,4.6,5114
+SKU001526,Sneakers Product 476,Zara,Sneakers,5.0,19602
+SKU001527,School Shoes Product 130,Puma,School Shoes,4.2,16868
+SKU001528,Dresses Product 100,H&M,Dresses,4.3,11405
+SKU001529,Jeans Product 432,Roadster,Jeans,3.3,1608
+SKU001530,Kids Wear Product 453,Levis,Kids Wear,3.8,1292
+SKU001531,Heels Product 370,Adidas,Heels,3.9,10341
+SKU001532,Perfume Product 268,Zara,Perfume,3.3,2192
+SKU001533,Tops Product 148,Levis,Tops,4.6,13919
+SKU001534,Kids Wear Product 463,US Polo,Kids Wear,3.3,14830
+SKU001535,Face Wash Product 364,H&M,Face Wash,3.4,22537
+SKU001536,Shirts Product 17,Zara,Shirts,4.4,3688
+SKU001537,Heels Product 64,Campus,Heels,3.4,1683
+SKU001538,Face Wash Product 345,Levis,Face Wash,3.5,9622
+SKU001539,School Shoes Product 212,Campus,School Shoes,3.8,7249
+SKU001540,Tops Product 289,HRX,Tops,4.2,10958
+SKU001541,Face Wash Product 41,H&M,Face Wash,4.9,22647
+SKU001542,Shirts Product 351,Puma,Shirts,4.2,12549
+SKU001543,School Shoes Product 3,H&M,School Shoes,3.6,6760
+SKU001544,Face Wash Product 42,Campus,Face Wash,3.3,6817
+SKU001545,Dresses Product 31,H&M,Dresses,3.3,13209
+SKU001546,Jeans Product 145,Nike,Jeans,4.2,10312
+SKU001547,School Shoes Product 285,Roadster,School Shoes,3.3,13842
+SKU001548,Kids Wear Product 99,Roadster,Kids Wear,4.8,10010
+SKU001549,T-Shirts Product 215,Nike,T-Shirts,3.9,559
+SKU001550,Tops Product 177,Puma,Tops,4.1,22299
+SKU001551,Tops Product 197,Roadster,Tops,4.3,2744
+SKU001552,Lipstick Product 348,US Polo,Lipstick,4.0,15234
+SKU001553,Perfume Product 319,H&M,Perfume,4.4,11057
+SKU001554,School Shoes Product 52,Zara,School Shoes,3.9,17124
+SKU001555,Perfume Product 158,US Polo,Perfume,4.8,23073
+SKU001556,Shirts Product 81,Zara,Shirts,3.6,3179
+SKU001557,Jeans Product 70,HRX,Jeans,4.9,15757
+SKU001558,Kids Wear Product 262,Nike,Kids Wear,3.7,7227
+SKU001559,Sneakers Product 372,Roadster,Sneakers,3.8,9991
+SKU001560,Perfume Product 63,Puma,Perfume,5.0,14378
+SKU001561,Perfume Product 60,Levis,Perfume,3.7,4617
+SKU001562,Handbags Product 252,HRX,Handbags,4.4,18156
+SKU001563,Shirts Product 392,Puma,Shirts,4.4,22193
+SKU001564,Kids Wear Product 109,Zara,Kids Wear,4.9,16960
+SKU001565,Handbags Product 258,US Polo,Handbags,4.0,15034
+SKU001566,Handbags Product 221,Zara,Handbags,4.7,10631
+SKU001567,Tops Product 42,Nike,Tops,5.0,19334
+SKU001568,Face Wash Product 416,US Polo,Face Wash,3.9,18837
+SKU001569,School Shoes Product 19,Campus,School Shoes,3.5,3767
+SKU001570,Kids Wear Product 372,Levis,Kids Wear,3.9,9463
+SKU001571,Lipstick Product 348,H&M,Lipstick,4.9,6555
+SKU001572,Sneakers Product 81,Adidas,Sneakers,4.0,1842
+SKU001573,Perfume Product 130,Nike,Perfume,3.8,23581
+SKU001574,Kids Wear Product 421,Campus,Kids Wear,3.9,4414
+SKU001575,Tops Product 250,Levis,Tops,3.5,5344
+SKU001576,Heels Product 107,Levis,Heels,4.5,11080
+SKU001577,T-Shirts Product 158,Levis,T-Shirts,3.8,11759
+SKU001578,School Shoes Product 471,HRX,School Shoes,3.3,9037
+SKU001579,Sneakers Product 40,Nike,Sneakers,3.6,516
+SKU001580,Shirts Product 256,Puma,Shirts,5.0,5290
+SKU001581,Shirts Product 172,Levis,Shirts,4.8,4005
+SKU001582,Lipstick Product 476,Campus,Lipstick,3.6,15865
+SKU001583,Dresses Product 492,Levis,Dresses,4.2,23479
+SKU001584,Kids Wear Product 17,HRX,Kids Wear,3.8,20462
+SKU001585,Dresses Product 225,Roadster,Dresses,4.3,4512
+SKU001586,Kids Wear Product 61,HRX,Kids Wear,3.7,5079
+SKU001587,Lipstick Product 146,US Polo,Lipstick,3.5,3979
+SKU001588,Face Wash Product 109,Campus,Face Wash,4.0,10170
+SKU001589,School Shoes Product 138,HRX,School Shoes,3.3,13948
+SKU001590,Shirts Product 489,Roadster,Shirts,4.4,9375
+SKU001591,Lipstick Product 14,Levis,Lipstick,3.5,3034
+SKU001592,Face Wash Product 236,US Polo,Face Wash,3.6,10906
+SKU001593,Tops Product 180,Campus,Tops,4.2,16993
+SKU001594,Heels Product 436,H&M,Heels,4.8,13796
+SKU001595,Face Wash Product 129,Nike,Face Wash,4.1,9483
+SKU001596,Lipstick Product 319,Adidas,Lipstick,4.6,3581
+SKU001597,Lipstick Product 431,HRX,Lipstick,5.0,9604
+SKU001598,Shirts Product 220,HRX,Shirts,4.5,21275
+SKU001599,T-Shirts Product 118,US Polo,T-Shirts,4.1,23267
+SKU001600,Heels Product 350,Adidas,Heels,4.8,9171
+SKU001601,Jeans Product 196,Adidas,Jeans,3.5,6699
+SKU001602,Handbags Product 145,Campus,Handbags,3.5,7976
+SKU001603,Perfume Product 18,US Polo,Perfume,3.2,10173
+SKU001604,Tops Product 178,Adidas,Tops,3.2,14725
+SKU001605,Face Wash Product 1,HRX,Face Wash,4.2,1226
+SKU001606,Heels Product 310,Puma,Heels,4.9,21447
+SKU001607,Tops Product 471,Campus,Tops,3.2,16873
+SKU001608,Jeans Product 301,Puma,Jeans,3.8,11344
+SKU001609,Tops Product 191,HRX,Tops,3.6,12474
+SKU001610,Jeans Product 269,Adidas,Jeans,4.0,17026
+SKU001611,Sneakers Product 402,H&M,Sneakers,3.2,1439
+SKU001612,T-Shirts Product 463,Puma,T-Shirts,4.4,16691
+SKU001613,Perfume Product 193,Levis,Perfume,4.9,14031
+SKU001614,School Shoes Product 482,Levis,School Shoes,3.4,826
+SKU001615,Face Wash Product 146,HRX,Face Wash,4.6,5918
+SKU001616,Face Wash Product 467,Puma,Face Wash,4.2,11383
+SKU001617,Kids Wear Product 292,Roadster,Kids Wear,4.8,16912
+SKU001618,Shirts Product 228,Adidas,Shirts,3.3,16846
+SKU001619,Jeans Product 147,Adidas,Jeans,3.9,2388
+SKU001620,Kids Wear Product 267,Campus,Kids Wear,3.6,24482
+SKU001621,T-Shirts Product 461,Nike,T-Shirts,4.4,21661
+SKU001622,Tops Product 115,Adidas,Tops,3.6,21685
+SKU001623,Kids Wear Product 400,Puma,Kids Wear,4.2,5589
+SKU001624,Kids Wear Product 89,Zara,Kids Wear,4.1,12320
+SKU001625,Dresses Product 27,Roadster,Dresses,3.7,7625
+SKU001626,Jeans Product 259,Zara,Jeans,3.3,17727
+SKU001627,Sneakers Product 483,HRX,Sneakers,4.8,20429
+SKU001628,Kids Wear Product 32,Puma,Kids Wear,4.2,20313
+SKU001629,Face Wash Product 164,Puma,Face Wash,3.4,23515
+SKU001630,Face Wash Product 414,Zara,Face Wash,4.4,22713
+SKU001631,T-Shirts Product 273,Zara,T-Shirts,4.4,23111
+SKU001632,Dresses Product 68,Levis,Dresses,4.3,20297
+SKU001633,Face Wash Product 384,Campus,Face Wash,4.1,23848
+SKU001634,Kids Wear Product 199,HRX,Kids Wear,4.1,20006
+SKU001635,Heels Product 227,H&M,Heels,3.5,1403
+SKU001636,Jeans Product 404,Zara,Jeans,4.5,22624
+SKU001637,Sneakers Product 373,Adidas,Sneakers,4.7,5853
+SKU001638,Perfume Product 391,Adidas,Perfume,4.3,4154
+SKU001639,Kids Wear Product 65,HRX,Kids Wear,4.9,3238
+SKU001640,T-Shirts Product 300,Roadster,T-Shirts,3.2,17263
+SKU001641,Sneakers Product 448,US Polo,Sneakers,3.6,2157
+SKU001642,Face Wash Product 90,Nike,Face Wash,3.6,23093
+SKU001643,Shirts Product 183,Zara,Shirts,3.4,3901
+SKU001644,Kids Wear Product 313,H&M,Kids Wear,4.3,20480
+SKU001645,Sneakers Product 329,Campus,Sneakers,3.4,3676
+SKU001646,Kids Wear Product 74,Adidas,Kids Wear,4.8,4543
+SKU001647,Heels Product 76,Adidas,Heels,4.5,4376
+SKU001648,Shirts Product 408,Adidas,Shirts,4.1,16222
+SKU001649,Kids Wear Product 70,Levis,Kids Wear,4.3,18015
+SKU001650,Kids Wear Product 413,HRX,Kids Wear,4.8,12234
+SKU001651,School Shoes Product 100,Puma,School Shoes,4.7,5612
+SKU001652,Sneakers Product 195,Levis,Sneakers,4.9,8060
+SKU001653,Lipstick Product 91,Levis,Lipstick,3.2,523
+SKU001654,Kids Wear Product 8,Nike,Kids Wear,4.6,21960
+SKU001655,T-Shirts Product 372,Zara,T-Shirts,4.6,10589
+SKU001656,Jeans Product 348,Campus,Jeans,4.5,9070
+SKU001657,T-Shirts Product 230,Puma,T-Shirts,4.0,4402
+SKU001658,Sneakers Product 495,Puma,Sneakers,3.8,6117
+SKU001659,Perfume Product 156,Nike,Perfume,3.4,21320
+SKU001660,Perfume Product 356,Zara,Perfume,4.5,8886
+SKU001661,School Shoes Product 389,H&M,School Shoes,4.5,467
+SKU001662,T-Shirts Product 19,H&M,T-Shirts,5.0,14052
+SKU001663,Jeans Product 267,US Polo,Jeans,4.4,10493
+SKU001664,Heels Product 289,Nike,Heels,5.0,20601
+SKU001665,Kids Wear Product 101,Levis,Kids Wear,4.7,15728
+SKU001666,Shirts Product 83,US Polo,Shirts,3.8,24723
+SKU001667,Face Wash Product 430,Campus,Face Wash,4.7,5829
+SKU001668,Kids Wear Product 155,US Polo,Kids Wear,3.2,16978
+SKU001669,Kids Wear Product 277,H&M,Kids Wear,3.9,22099
+SKU001670,Perfume Product 48,HRX,Perfume,3.7,18715
+SKU001671,Dresses Product 39,Zara,Dresses,3.7,24423
+SKU001672,T-Shirts Product 235,Puma,T-Shirts,4.7,12577
+SKU001673,T-Shirts Product 152,Levis,T-Shirts,3.6,476
+SKU001674,School Shoes Product 135,US Polo,School Shoes,4.9,8849
+SKU001675,School Shoes Product 112,Nike,School Shoes,4.1,6322
+SKU001676,T-Shirts Product 98,Puma,T-Shirts,4.9,20154
+SKU001677,Face Wash Product 393,HRX,Face Wash,4.2,5313
+SKU001678,Lipstick Product 266,Nike,Lipstick,3.3,21525
+SKU001679,Tops Product 270,Adidas,Tops,4.0,19138
+SKU001680,Face Wash Product 77,Nike,Face Wash,4.7,16560
+SKU001681,Shirts Product 13,H&M,Shirts,4.6,23519
+SKU001682,Sneakers Product 182,Roadster,Sneakers,3.2,6165
+SKU001683,Lipstick Product 384,Zara,Lipstick,4.3,21786
+SKU001684,School Shoes Product 187,US Polo,School Shoes,4.6,23060
+SKU001685,Sneakers Product 94,Adidas,Sneakers,4.3,8266
+SKU001686,Kids Wear Product 329,Nike,Kids Wear,4.5,14756
+SKU001687,Lipstick Product 21,Campus,Lipstick,4.7,3074
+SKU001688,Jeans Product 244,Adidas,Jeans,4.1,1460
+SKU001689,Dresses Product 341,Levis,Dresses,4.9,1080
+SKU001690,Tops Product 47,H&M,Tops,3.9,7992
+SKU001691,Sneakers Product 344,Zara,Sneakers,4.5,18100
+SKU001692,Sneakers Product 333,Puma,Sneakers,3.8,21866
+SKU001693,Face Wash Product 138,Puma,Face Wash,3.8,20741
+SKU001694,Kids Wear Product 63,HRX,Kids Wear,4.6,17289
+SKU001695,Kids Wear Product 93,Levis,Kids Wear,3.5,4444
+SKU001696,Perfume Product 197,Nike,Perfume,3.3,1532
+SKU001697,Face Wash Product 484,Levis,Face Wash,3.6,15662
+SKU001698,Perfume Product 60,H&M,Perfume,4.8,15682
+SKU001699,Perfume Product 309,Nike,Perfume,4.8,21867
+SKU001700,Face Wash Product 472,H&M,Face Wash,4.5,4352
+SKU001701,Shirts Product 228,Puma,Shirts,3.8,14524
+SKU001702,T-Shirts Product 266,Campus,T-Shirts,3.3,17670
+SKU001703,Shirts Product 35,Levis,Shirts,4.2,12787
+SKU001704,Face Wash Product 92,Roadster,Face Wash,4.0,12428
+SKU001705,School Shoes Product 138,Levis,School Shoes,4.5,12163
+SKU001706,School Shoes Product 97,H&M,School Shoes,4.9,17050
+SKU001707,Handbags Product 406,HRX,Handbags,3.4,24441
+SKU001708,Kids Wear Product 314,HRX,Kids Wear,4.2,2403
+SKU001709,Kids Wear Product 434,Nike,Kids Wear,4.5,10726
+SKU001710,School Shoes Product 429,Zara,School Shoes,4.6,6403
+SKU001711,Dresses Product 370,Nike,Dresses,4.7,20514
+SKU001712,T-Shirts Product 448,Campus,T-Shirts,4.8,21987
+SKU001713,Perfume Product 124,H&M,Perfume,3.9,2271
+SKU001714,Handbags Product 469,HRX,Handbags,4.1,19498
+SKU001715,T-Shirts Product 179,Campus,T-Shirts,3.6,2712
+SKU001716,School Shoes Product 450,Puma,School Shoes,4.5,12067
+SKU001717,Handbags Product 33,HRX,Handbags,3.6,3459
+SKU001718,Heels Product 274,Nike,Heels,3.5,20181
+SKU001719,Perfume Product 153,Adidas,Perfume,4.1,2590
+SKU001720,Sneakers Product 123,Levis,Sneakers,3.6,9522
+SKU001721,Jeans Product 376,Levis,Jeans,3.5,10090
+SKU001722,School Shoes Product 33,US Polo,School Shoes,3.9,14216
+SKU001723,Kids Wear Product 120,Zara,Kids Wear,4.6,1442
+SKU001724,School Shoes Product 344,Campus,School Shoes,4.0,19863
+SKU001725,Dresses Product 172,Zara,Dresses,4.8,20438
+SKU001726,Kids Wear Product 110,Roadster,Kids Wear,3.6,7385
+SKU001727,Shirts Product 492,US Polo,Shirts,4.6,3493
+SKU001728,T-Shirts Product 118,US Polo,T-Shirts,3.9,16972
+SKU001729,Handbags Product 224,Roadster,Handbags,4.3,22985
+SKU001730,Dresses Product 311,US Polo,Dresses,4.1,423
+SKU001731,Lipstick Product 471,Campus,Lipstick,4.5,6969
+SKU001732,T-Shirts Product 288,Nike,T-Shirts,4.6,9830
+SKU001733,Perfume Product 264,Campus,Perfume,4.7,13306
+SKU001734,Sneakers Product 320,Puma,Sneakers,4.9,3927
+SKU001735,Handbags Product 239,Adidas,Handbags,3.6,21417
+SKU001736,School Shoes Product 86,Levis,School Shoes,4.5,2779
+SKU001737,Jeans Product 391,Puma,Jeans,3.7,5917
+SKU001738,Heels Product 204,Levis,Heels,4.7,21210
+SKU001739,Sneakers Product 235,Nike,Sneakers,4.6,1675
+SKU001740,Handbags Product 179,HRX,Handbags,4.6,3626
+SKU001741,School Shoes Product 176,Adidas,School Shoes,3.4,16904
+SKU001742,Perfume Product 372,Levis,Perfume,3.6,7582
+SKU001743,Dresses Product 154,Zara,Dresses,3.3,21746
+SKU001744,Kids Wear Product 467,Nike,Kids Wear,4.2,15714
+SKU001745,T-Shirts Product 424,Zara,T-Shirts,3.6,9228
+SKU001746,Dresses Product 425,US Polo,Dresses,4.2,24769
+SKU001747,Face Wash Product 128,US Polo,Face Wash,4.2,11964
+SKU001748,School Shoes Product 66,Puma,School Shoes,4.6,11893
+SKU001749,Tops Product 198,Puma,Tops,4.6,6634
+SKU001750,Shirts Product 56,Roadster,Shirts,3.3,993
+SKU001751,Heels Product 262,Nike,Heels,3.7,24819
+SKU001752,School Shoes Product 474,Adidas,School Shoes,4.4,22511
+SKU001753,Perfume Product 129,Adidas,Perfume,4.9,3973
+SKU001754,Perfume Product 209,Adidas,Perfume,4.2,20990
+SKU001755,Kids Wear Product 270,Zara,Kids Wear,4.1,8818
+SKU001756,Jeans Product 385,HRX,Jeans,4.0,5963
+SKU001757,Heels Product 409,US Polo,Heels,3.6,1330
+SKU001758,Dresses Product 118,Campus,Dresses,3.9,13850
+SKU001759,Sneakers Product 136,Zara,Sneakers,3.6,20393
+SKU001760,Tops Product 431,Nike,Tops,4.6,11682
+SKU001761,Perfume Product 155,Adidas,Perfume,4.7,15838
+SKU001762,Tops Product 66,Zara,Tops,4.5,3876
+SKU001763,Perfume Product 456,H&M,Perfume,4.4,14501
+SKU001764,School Shoes Product 109,Zara,School Shoes,4.2,9778
+SKU001765,School Shoes Product 230,Nike,School Shoes,5.0,19343
+SKU001766,School Shoes Product 483,Nike,School Shoes,4.3,10025
+SKU001767,School Shoes Product 134,Roadster,School Shoes,4.9,9760
+SKU001768,Lipstick Product 473,Nike,Lipstick,3.3,19187
+SKU001769,School Shoes Product 436,Levis,School Shoes,4.3,9309
+SKU001770,Face Wash Product 17,H&M,Face Wash,4.0,19516
+SKU001771,School Shoes Product 450,Zara,School Shoes,4.4,13370
+SKU001772,Perfume Product 491,US Polo,Perfume,4.6,1302
+SKU001773,Kids Wear Product 3,Roadster,Kids Wear,5.0,2412
+SKU001774,School Shoes Product 68,Roadster,School Shoes,4.7,8827
+SKU001775,Kids Wear Product 289,Zara,Kids Wear,4.7,12779
+SKU001776,School Shoes Product 360,H&M,School Shoes,4.4,3940
+SKU001777,Dresses Product 376,Adidas,Dresses,4.4,10525
+SKU001778,Lipstick Product 274,Adidas,Lipstick,4.3,16454
+SKU001779,Lipstick Product 291,US Polo,Lipstick,4.9,12380
+SKU001780,Kids Wear Product 151,Campus,Kids Wear,3.4,23808
+SKU001781,Sneakers Product 210,Puma,Sneakers,5.0,4158
+SKU001782,School Shoes Product 244,HRX,School Shoes,4.4,5390
+SKU001783,Sneakers Product 272,US Polo,Sneakers,4.0,22722
+SKU001784,Kids Wear Product 318,Adidas,Kids Wear,5.0,3374
+SKU001785,School Shoes Product 460,Zara,School Shoes,4.2,2578
+SKU001786,School Shoes Product 416,H&M,School Shoes,4.1,4881
+SKU001787,Lipstick Product 4,HRX,Lipstick,4.3,540
+SKU001788,Perfume Product 41,H&M,Perfume,3.3,24055
+SKU001789,T-Shirts Product 81,HRX,T-Shirts,3.8,22987
+SKU001790,T-Shirts Product 119,Adidas,T-Shirts,4.1,18389
+SKU001791,School Shoes Product 473,HRX,School Shoes,4.5,19271
+SKU001792,Kids Wear Product 48,H&M,Kids Wear,3.9,17601
+SKU001793,Perfume Product 271,H&M,Perfume,4.1,19002
+SKU001794,Perfume Product 157,Zara,Perfume,4.4,20296
+SKU001795,T-Shirts Product 258,Puma,T-Shirts,5.0,7756
+SKU001796,Tops Product 269,Levis,Tops,4.1,6895
+SKU001797,Tops Product 16,Nike,Tops,3.8,4087
+SKU001798,Dresses Product 426,Puma,Dresses,4.7,11290
+SKU001799,Jeans Product 197,Levis,Jeans,4.5,9162
+SKU001800,Perfume Product 17,H&M,Perfume,4.9,18183
+SKU001801,Jeans Product 113,Roadster,Jeans,3.7,14240
+SKU001802,School Shoes Product 18,Puma,School Shoes,3.4,6678
+SKU001803,School Shoes Product 443,H&M,School Shoes,4.2,19257
+SKU001804,Jeans Product 245,HRX,Jeans,4.2,16395
+SKU001805,Lipstick Product 240,Puma,Lipstick,4.9,9824
+SKU001806,Perfume Product 485,Levis,Perfume,3.5,4241
+SKU001807,T-Shirts Product 435,HRX,T-Shirts,4.9,24348
+SKU001808,Heels Product 79,Campus,Heels,4.0,18311
+SKU001809,Handbags Product 273,US Polo,Handbags,4.0,22968
+SKU001810,Heels Product 408,H&M,Heels,4.0,18597
+SKU001811,Tops Product 428,HRX,Tops,4.4,20465
+SKU001812,Tops Product 352,HRX,Tops,3.3,12758
+SKU001813,Shirts Product 276,Campus,Shirts,4.6,7704
+SKU001814,T-Shirts Product 217,Nike,T-Shirts,3.6,2153
+SKU001815,Jeans Product 104,Puma,Jeans,4.4,22196
+SKU001816,T-Shirts Product 203,HRX,T-Shirts,4.9,12620
+SKU001817,Sneakers Product 499,Roadster,Sneakers,4.6,10505
+SKU001818,Face Wash Product 500,HRX,Face Wash,4.7,10605
+SKU001819,Handbags Product 58,Levis,Handbags,4.8,8901
+SKU001820,Jeans Product 287,Nike,Jeans,4.9,250
+SKU001821,Handbags Product 419,Campus,Handbags,4.7,15253
+SKU001822,Sneakers Product 481,Zara,Sneakers,3.8,5205
+SKU001823,School Shoes Product 138,US Polo,School Shoes,4.7,4053
+SKU001824,Lipstick Product 165,Puma,Lipstick,4.2,24947
+SKU001825,Kids Wear Product 217,Nike,Kids Wear,4.7,9568
+SKU001826,Jeans Product 210,Campus,Jeans,4.1,9604
+SKU001827,Shirts Product 108,Roadster,Shirts,3.6,14293
+SKU001828,Sneakers Product 196,Roadster,Sneakers,4.2,3157
+SKU001829,Jeans Product 145,H&M,Jeans,4.6,24966
+SKU001830,Kids Wear Product 15,Puma,Kids Wear,3.6,23136
+SKU001831,Tops Product 33,Adidas,Tops,4.0,5448
+SKU001832,Kids Wear Product 470,Adidas,Kids Wear,3.7,20214
+SKU001833,Tops Product 35,Nike,Tops,4.4,23961
+SKU001834,Face Wash Product 111,Nike,Face Wash,4.6,20107
+SKU001835,T-Shirts Product 223,Levis,T-Shirts,3.6,18007
+SKU001836,Face Wash Product 302,Puma,Face Wash,5.0,10381
+SKU001837,Sneakers Product 407,HRX,Sneakers,4.4,5480
+SKU001838,Tops Product 421,Nike,Tops,4.0,2870
+SKU001839,Dresses Product 67,US Polo,Dresses,4.0,24628
+SKU001840,Kids Wear Product 143,Puma,Kids Wear,4.5,16151
+SKU001841,Sneakers Product 239,Campus,Sneakers,3.8,22020
+SKU001842,School Shoes Product 405,H&M,School Shoes,4.8,17588
+SKU001843,Heels Product 84,US Polo,Heels,4.5,4545
+SKU001844,Kids Wear Product 443,H&M,Kids Wear,4.8,17565
+SKU001845,Lipstick Product 277,H&M,Lipstick,3.6,14089
+SKU001846,Dresses Product 430,Puma,Dresses,4.2,17742
+SKU001847,Heels Product 186,Campus,Heels,3.6,19452
+SKU001848,Jeans Product 263,Nike,Jeans,3.4,8589
+SKU001849,Kids Wear Product 400,US Polo,Kids Wear,3.9,9807
+SKU001850,Jeans Product 18,Puma,Jeans,4.8,4055
+SKU001851,Tops Product 121,Zara,Tops,5.0,2373
+SKU001852,Heels Product 307,Nike,Heels,4.0,10651
+SKU001853,Sneakers Product 465,US Polo,Sneakers,3.5,2302
+SKU001854,Sneakers Product 388,HRX,Sneakers,3.9,9466
+SKU001855,Kids Wear Product 209,Puma,Kids Wear,4.0,14306
+SKU001856,School Shoes Product 289,US Polo,School Shoes,4.7,11525
+SKU001857,Kids Wear Product 212,US Polo,Kids Wear,4.1,24214
+SKU001858,Sneakers Product 61,Nike,Sneakers,4.4,14440
+SKU001859,Sneakers Product 417,US Polo,Sneakers,4.8,16040
+SKU001860,Lipstick Product 449,Zara,Lipstick,4.8,14471
+SKU001861,Jeans Product 193,Adidas,Jeans,3.3,11923
+SKU001862,Jeans Product 192,H&M,Jeans,3.7,16927
+SKU001863,Tops Product 452,Adidas,Tops,4.0,3055
+SKU001864,Dresses Product 73,Puma,Dresses,4.3,20633
+SKU001865,Tops Product 235,Roadster,Tops,5.0,7364
+SKU001866,Kids Wear Product 338,Adidas,Kids Wear,4.8,2911
+SKU001867,Kids Wear Product 218,Levis,Kids Wear,4.1,3663
+SKU001868,Face Wash Product 169,H&M,Face Wash,4.9,6057
+SKU001869,Tops Product 343,Campus,Tops,3.8,20589
+SKU001870,School Shoes Product 24,H&M,School Shoes,4.7,10822
+SKU001871,Tops Product 81,Nike,Tops,4.4,23306
+SKU001872,Kids Wear Product 340,Nike,Kids Wear,4.9,11708
+SKU001873,Shirts Product 488,Nike,Shirts,3.2,18832
+SKU001874,Jeans Product 212,Nike,Jeans,4.3,3686
+SKU001875,Kids Wear Product 107,Levis,Kids Wear,3.9,14022
+SKU001876,Face Wash Product 331,Puma,Face Wash,4.9,19127
+SKU001877,Face Wash Product 150,HRX,Face Wash,3.6,10841
+SKU001878,Heels Product 458,Puma,Heels,4.2,14641
+SKU001879,Jeans Product 83,US Polo,Jeans,3.9,6443
+SKU001880,School Shoes Product 222,Roadster,School Shoes,3.2,16195
+SKU001881,Sneakers Product 43,Roadster,Sneakers,4.7,4128
+SKU001882,School Shoes Product 312,US Polo,School Shoes,4.5,18120
+SKU001883,School Shoes Product 147,Campus,School Shoes,3.2,9386
+SKU001884,Shirts Product 105,Nike,Shirts,3.9,2051
+SKU001885,Perfume Product 379,US Polo,Perfume,4.0,12315
+SKU001886,Perfume Product 425,H&M,Perfume,3.7,888
+SKU001887,School Shoes Product 301,Nike,School Shoes,4.4,8003
+SKU001888,Shirts Product 132,Roadster,Shirts,3.3,19762
+SKU001889,Face Wash Product 145,Campus,Face Wash,4.2,14506
+SKU001890,T-Shirts Product 418,Levis,T-Shirts,4.9,5499
+SKU001891,Lipstick Product 312,US Polo,Lipstick,4.3,21881
+SKU001892,Kids Wear Product 154,HRX,Kids Wear,3.8,5638
+SKU001893,Heels Product 240,Campus,Heels,3.6,6620
+SKU001894,Shirts Product 413,HRX,Shirts,4.4,4097
+SKU001895,Sneakers Product 45,H&M,Sneakers,4.2,11560
+SKU001896,Dresses Product 275,Nike,Dresses,3.8,7651
+SKU001897,Dresses Product 479,HRX,Dresses,3.8,7992
+SKU001898,T-Shirts Product 410,HRX,T-Shirts,3.6,11147
+SKU001899,Kids Wear Product 477,Roadster,Kids Wear,4.7,8282
+SKU001900,T-Shirts Product 63,Adidas,T-Shirts,4.3,16832
+SKU001901,Kids Wear Product 172,Levis,Kids Wear,4.4,4185
+SKU001902,Kids Wear Product 468,Roadster,Kids Wear,3.6,13802
+SKU001903,T-Shirts Product 401,Nike,T-Shirts,3.7,7251
+SKU001904,Shirts Product 76,Campus,Shirts,4.9,15374
+SKU001905,Handbags Product 7,Levis,Handbags,4.0,20602
+SKU001906,Sneakers Product 439,Levis,Sneakers,4.8,24237
+SKU001907,Tops Product 52,Nike,Tops,3.4,4629
+SKU001908,Sneakers Product 326,Zara,Sneakers,4.7,4731
+SKU001909,Sneakers Product 197,HRX,Sneakers,3.7,6034
+SKU001910,Kids Wear Product 129,US Polo,Kids Wear,4.0,17496
+SKU001911,Tops Product 374,Roadster,Tops,3.4,175
+SKU001912,Perfume Product 434,Levis,Perfume,4.6,19586
+SKU001913,Lipstick Product 383,US Polo,Lipstick,4.8,15658
+SKU001914,Kids Wear Product 489,Puma,Kids Wear,3.9,6859
+SKU001915,T-Shirts Product 314,Levis,T-Shirts,4.7,10377
+SKU001916,Face Wash Product 414,Campus,Face Wash,4.9,1700
+SKU001917,Tops Product 340,Adidas,Tops,4.4,23147
+SKU001918,Dresses Product 61,HRX,Dresses,4.2,13515
+SKU001919,Perfume Product 225,US Polo,Perfume,4.2,20577
+SKU001920,Handbags Product 16,Roadster,Handbags,3.5,2676
+SKU001921,Face Wash Product 296,Zara,Face Wash,3.7,19893
+SKU001922,School Shoes Product 281,HRX,School Shoes,3.8,23794
+SKU001923,Dresses Product 321,Adidas,Dresses,3.6,21075
+SKU001924,School Shoes Product 417,HRX,School Shoes,3.5,18238
+SKU001925,Kids Wear Product 178,HRX,Kids Wear,4.2,5859
+SKU001926,Heels Product 400,Roadster,Heels,4.1,13819
+SKU001927,School Shoes Product 94,Zara,School Shoes,3.8,2002
+SKU001928,Face Wash Product 268,Levis,Face Wash,4.7,21297
+SKU001929,Shirts Product 68,Campus,Shirts,4.5,904
+SKU001930,Face Wash Product 312,Campus,Face Wash,4.1,22285
+SKU001931,Lipstick Product 74,HRX,Lipstick,4.4,17741
+SKU001932,Heels Product 329,US Polo,Heels,4.6,5984
+SKU001933,School Shoes Product 378,Zara,School Shoes,3.8,8177
+SKU001934,Sneakers Product 308,Zara,Sneakers,4.0,734
+SKU001935,Lipstick Product 58,Campus,Lipstick,3.5,23527
+SKU001936,School Shoes Product 466,Zara,School Shoes,5.0,3386
+SKU001937,Handbags Product 265,Puma,Handbags,5.0,23649
+SKU001938,Jeans Product 100,Puma,Jeans,3.7,22933
+SKU001939,Face Wash Product 382,Nike,Face Wash,4.7,8376
+SKU001940,Handbags Product 69,Levis,Handbags,3.5,19314
+SKU001941,Perfume Product 301,US Polo,Perfume,3.4,7952
+SKU001942,Handbags Product 324,Adidas,Handbags,4.4,953
+SKU001943,Kids Wear Product 170,HRX,Kids Wear,4.0,22963
+SKU001944,Face Wash Product 279,Roadster,Face Wash,3.6,24997
+SKU001945,Heels Product 471,US Polo,Heels,3.8,24920
+SKU001946,Kids Wear Product 283,Adidas,Kids Wear,3.9,8665
+SKU001947,Sneakers Product 119,Zara,Sneakers,4.8,17194
+SKU001948,T-Shirts Product 19,Nike,T-Shirts,4.6,11033
+SKU001949,Dresses Product 105,US Polo,Dresses,4.0,15521
+SKU001950,School Shoes Product 428,HRX,School Shoes,4.0,12392
+SKU001951,Sneakers Product 472,Puma,Sneakers,3.7,16925
+SKU001952,School Shoes Product 26,H&M,School Shoes,3.7,3288
+SKU001953,School Shoes Product 369,HRX,School Shoes,4.5,24791
+SKU001954,Kids Wear Product 486,HRX,Kids Wear,4.5,10356
+SKU001955,Kids Wear Product 371,H&M,Kids Wear,4.1,8359
+SKU001956,Sneakers Product 298,Campus,Sneakers,3.4,12279
+SKU001957,Handbags Product 192,Roadster,Handbags,3.3,21284
+SKU001958,Perfume Product 471,Nike,Perfume,3.6,18519
+SKU001959,Shirts Product 285,Levis,Shirts,3.5,10277
+SKU001960,Lipstick Product 94,Puma,Lipstick,4.6,2061
+SKU001961,School Shoes Product 439,H&M,School Shoes,3.4,22304
+SKU001962,Lipstick Product 448,US Polo,Lipstick,3.9,198
+SKU001963,School Shoes Product 169,US Polo,School Shoes,4.3,12638
+SKU001964,Heels Product 407,Campus,Heels,3.9,5090
+SKU001965,School Shoes Product 400,Zara,School Shoes,4.1,5548
+SKU001966,Jeans Product 20,US Polo,Jeans,3.3,1618
+SKU001967,Perfume Product 299,Nike,Perfume,3.3,6861
+SKU001968,Handbags Product 82,Puma,Handbags,4.8,337
+SKU001969,School Shoes Product 304,Campus,School Shoes,4.6,18938
+SKU001970,Dresses Product 214,Adidas,Dresses,4.5,9345
+SKU001971,Kids Wear Product 285,Levis,Kids Wear,4.4,12113
+SKU001972,Heels Product 315,Nike,Heels,3.9,10076
+SKU001973,Perfume Product 415,H&M,Perfume,4.4,24340
+SKU001974,Dresses Product 133,HRX,Dresses,4.4,22628
+SKU001975,Sneakers Product 313,Levis,Sneakers,3.8,1263
+SKU001976,Lipstick Product 146,Levis,Lipstick,3.3,5095
+SKU001977,Shirts Product 117,Adidas,Shirts,4.0,16519
+SKU001978,Lipstick Product 122,Campus,Lipstick,3.2,5733
+SKU001979,Lipstick Product 328,Puma,Lipstick,3.3,8694
+SKU001980,T-Shirts Product 466,Zara,T-Shirts,4.0,20416
+SKU001981,T-Shirts Product 151,US Polo,T-Shirts,4.1,2901
+SKU001982,Face Wash Product 278,Levis,Face Wash,4.8,23693
+SKU001983,Dresses Product 354,H&M,Dresses,3.4,9702
+SKU001984,Lipstick Product 471,Adidas,Lipstick,3.6,18491
+SKU001985,Perfume Product 389,Levis,Perfume,4.3,22191
+SKU001986,Face Wash Product 172,Roadster,Face Wash,4.5,11021
+SKU001987,Handbags Product 447,H&M,Handbags,3.4,8781
+SKU001988,Kids Wear Product 170,Adidas,Kids Wear,4.7,20605
+SKU001989,Jeans Product 145,Puma,Jeans,3.7,4290
+SKU001990,Sneakers Product 419,Levis,Sneakers,4.7,24196
+SKU001991,Handbags Product 466,Levis,Handbags,4.1,12802
+SKU001992,Perfume Product 458,Nike,Perfume,4.3,22179
+SKU001993,School Shoes Product 85,Zara,School Shoes,3.8,612
+SKU001994,Lipstick Product 177,US Polo,Lipstick,4.1,11595
+SKU001995,Jeans Product 385,Campus,Jeans,4.0,6354
+SKU001996,T-Shirts Product 42,Nike,T-Shirts,4.4,7579
+SKU001997,Kids Wear Product 206,HRX,Kids Wear,4.5,19280
+SKU001998,Kids Wear Product 331,US Polo,Kids Wear,4.0,11684
+SKU001999,Kids Wear Product 161,HRX,Kids Wear,4.1,6201
+SKU002000,Face Wash Product 256,Adidas,Face Wash,4.2,20842
+SKU002001,School Shoes Product 56,Levis,School Shoes,3.4,8707
+SKU002002,Sneakers Product 186,Zara,Sneakers,5.0,1161
+SKU002003,Kids Wear Product 70,Adidas,Kids Wear,4.7,6172
+SKU002004,Face Wash Product 124,Zara,Face Wash,4.0,19816
+SKU002005,Tops Product 340,Levis,Tops,3.7,22569
+SKU002006,Dresses Product 443,Adidas,Dresses,3.5,17935
+SKU002007,School Shoes Product 265,H&M,School Shoes,3.4,4431
+SKU002008,Shirts Product 51,US Polo,Shirts,3.4,1194
+SKU002009,Face Wash Product 64,Nike,Face Wash,3.7,18327
+SKU002010,Face Wash Product 152,Zara,Face Wash,3.9,5018
+SKU002011,School Shoes Product 135,H&M,School Shoes,3.5,737
+SKU002012,School Shoes Product 246,HRX,School Shoes,4.2,11374
+SKU002013,Face Wash Product 134,Adidas,Face Wash,3.7,23236
+SKU002014,Handbags Product 287,HRX,Handbags,4.7,20661
+SKU002015,Dresses Product 99,Levis,Dresses,3.9,10348
+SKU002016,Dresses Product 285,Campus,Dresses,4.1,5305
+SKU002017,Jeans Product 255,Adidas,Jeans,3.2,9928
+SKU002018,Perfume Product 498,H&M,Perfume,4.2,448
+SKU002019,Handbags Product 187,Puma,Handbags,3.8,628
+SKU002020,Kids Wear Product 452,Roadster,Kids Wear,3.4,6710
+SKU002021,Lipstick Product 111,HRX,Lipstick,4.5,11035
+SKU002022,Heels Product 424,Levis,Heels,3.5,19658
+SKU002023,T-Shirts Product 440,HRX,T-Shirts,4.4,14354
+SKU002024,Shirts Product 360,Campus,Shirts,3.9,8268
+SKU002025,Handbags Product 381,Levis,Handbags,4.4,7939
+SKU002026,Heels Product 289,Adidas,Heels,3.2,21772
+SKU002027,Heels Product 341,Campus,Heels,4.7,3203
+SKU002028,Face Wash Product 17,Adidas,Face Wash,3.5,9929
+SKU002029,Perfume Product 422,Puma,Perfume,3.9,14283
+SKU002030,Kids Wear Product 313,Campus,Kids Wear,4.4,1731
+SKU002031,T-Shirts Product 112,US Polo,T-Shirts,4.2,11703
+SKU002032,T-Shirts Product 247,Roadster,T-Shirts,4.8,17678
+SKU002033,Jeans Product 168,Campus,Jeans,4.1,22213
+SKU002034,Sneakers Product 345,US Polo,Sneakers,3.4,7754
+SKU002035,Lipstick Product 372,Roadster,Lipstick,4.4,13586
+SKU002036,Perfume Product 73,Nike,Perfume,3.9,24287
+SKU002037,T-Shirts Product 282,US Polo,T-Shirts,4.7,126
+SKU002038,Kids Wear Product 248,Adidas,Kids Wear,3.8,19705
+SKU002039,Kids Wear Product 350,Levis,Kids Wear,4.4,10669
+SKU002040,T-Shirts Product 360,Levis,T-Shirts,3.4,24947
+SKU002041,Kids Wear Product 281,Zara,Kids Wear,3.3,2669
+SKU002042,Face Wash Product 324,H&M,Face Wash,3.3,8411
+SKU002043,Face Wash Product 108,Roadster,Face Wash,4.6,8494
+SKU002044,Jeans Product 418,Levis,Jeans,4.4,2551
+SKU002045,Shirts Product 67,Zara,Shirts,3.5,20087
+SKU002046,Jeans Product 384,Puma,Jeans,4.7,8006
+SKU002047,Lipstick Product 257,Roadster,Lipstick,4.1,20405
+SKU002048,Lipstick Product 236,Roadster,Lipstick,4.2,1487
+SKU002049,School Shoes Product 53,Zara,School Shoes,4.7,10512
+SKU002050,Handbags Product 118,H&M,Handbags,4.9,5129
+SKU002051,Kids Wear Product 120,HRX,Kids Wear,5.0,10548
+SKU002052,Dresses Product 30,US Polo,Dresses,4.0,11404
+SKU002053,School Shoes Product 64,Adidas,School Shoes,4.6,18632
+SKU002054,Shirts Product 336,Roadster,Shirts,4.6,11593
+SKU002055,School Shoes Product 269,Roadster,School Shoes,4.9,21506
+SKU002056,Kids Wear Product 497,H&M,Kids Wear,3.5,7049
+SKU002057,School Shoes Product 354,Puma,School Shoes,4.2,17708
+SKU002058,Jeans Product 358,Nike,Jeans,4.7,3896
+SKU002059,Face Wash Product 211,H&M,Face Wash,4.7,22078
+SKU002060,Sneakers Product 142,H&M,Sneakers,3.3,1514
+SKU002061,School Shoes Product 38,H&M,School Shoes,5.0,17676
+SKU002062,School Shoes Product 11,HRX,School Shoes,3.2,18602
+SKU002063,Heels Product 2,Adidas,Heels,4.3,10443
+SKU002064,Kids Wear Product 215,Levis,Kids Wear,4.1,18677
+SKU002065,Kids Wear Product 415,Zara,Kids Wear,3.7,17213
+SKU002066,Shirts Product 322,HRX,Shirts,3.6,9405
+SKU002067,Tops Product 215,Nike,Tops,3.6,6307
+SKU002068,Heels Product 245,H&M,Heels,3.6,22287
+SKU002069,Jeans Product 381,Campus,Jeans,3.5,6734
+SKU002070,Perfume Product 265,Adidas,Perfume,4.6,12660
+SKU002071,Sneakers Product 418,US Polo,Sneakers,4.2,17464
+SKU002072,Dresses Product 318,Adidas,Dresses,4.5,6307
+SKU002073,Sneakers Product 286,HRX,Sneakers,4.3,18763
+SKU002074,Perfume Product 94,H&M,Perfume,4.3,14118
+SKU002075,Lipstick Product 387,US Polo,Lipstick,3.4,14228
+SKU002076,Kids Wear Product 130,Campus,Kids Wear,3.4,7519
+SKU002077,School Shoes Product 216,Roadster,School Shoes,4.2,15440
+SKU002078,Tops Product 63,Campus,Tops,3.6,13357
+SKU002079,Dresses Product 148,Nike,Dresses,3.2,12172
+SKU002080,Jeans Product 457,HRX,Jeans,3.4,18638
+SKU002081,Lipstick Product 199,US Polo,Lipstick,3.9,8753
+SKU002082,School Shoes Product 266,US Polo,School Shoes,4.2,15238
+SKU002083,School Shoes Product 334,US Polo,School Shoes,3.3,19843
+SKU002084,Lipstick Product 415,H&M,Lipstick,4.3,23914
+SKU002085,Dresses Product 362,Nike,Dresses,3.5,22844
+SKU002086,Sneakers Product 110,Campus,Sneakers,3.8,22127
+SKU002087,School Shoes Product 495,Roadster,School Shoes,4.3,20361
+SKU002088,T-Shirts Product 491,Nike,T-Shirts,3.7,15663
+SKU002089,T-Shirts Product 37,Levis,T-Shirts,4.4,8375
+SKU002090,Kids Wear Product 440,Adidas,Kids Wear,3.7,7269
+SKU002091,T-Shirts Product 313,Levis,T-Shirts,3.6,1358
+SKU002092,Perfume Product 163,HRX,Perfume,4.6,5853
+SKU002093,Handbags Product 40,Puma,Handbags,4.8,22155
+SKU002094,Handbags Product 61,US Polo,Handbags,3.8,2891
+SKU002095,Kids Wear Product 71,Puma,Kids Wear,4.7,13833
+SKU002096,T-Shirts Product 114,Nike,T-Shirts,4.4,5077
+SKU002097,Face Wash Product 276,Campus,Face Wash,4.9,11549
+SKU002098,Heels Product 375,H&M,Heels,4.3,5196
+SKU002099,Face Wash Product 499,US Polo,Face Wash,4.0,22129
+SKU002100,Perfume Product 496,H&M,Perfume,3.3,7967
+SKU002101,Perfume Product 295,H&M,Perfume,4.0,17137
+SKU002102,Face Wash Product 294,Zara,Face Wash,3.4,14705
+SKU002103,Perfume Product 219,Adidas,Perfume,4.4,5987
+SKU002104,Perfume Product 323,H&M,Perfume,3.8,14917
+SKU002105,Lipstick Product 373,US Polo,Lipstick,3.6,19791
+SKU002106,School Shoes Product 56,Campus,School Shoes,3.6,5850
+SKU002107,Face Wash Product 221,Puma,Face Wash,4.4,2545
+SKU002108,Face Wash Product 371,Campus,Face Wash,4.4,9437
+SKU002109,Handbags Product 254,Zara,Handbags,4.9,6711
+SKU002110,School Shoes Product 440,Levis,School Shoes,4.5,23207
+SKU002111,School Shoes Product 142,US Polo,School Shoes,3.4,5579
+SKU002112,School Shoes Product 222,Nike,School Shoes,3.9,15093
+SKU002113,Dresses Product 325,Zara,Dresses,3.8,24426
+SKU002114,Jeans Product 184,Puma,Jeans,4.4,24581
+SKU002115,Heels Product 93,Nike,Heels,4.1,16269
+SKU002116,Dresses Product 274,US Polo,Dresses,4.3,24169
+SKU002117,Jeans Product 165,Levis,Jeans,4.5,3230
+SKU002118,T-Shirts Product 181,HRX,T-Shirts,4.0,2540
+SKU002119,Kids Wear Product 305,HRX,Kids Wear,4.8,23686
+SKU002120,Kids Wear Product 348,Zara,Kids Wear,3.8,22862
+SKU002121,Heels Product 65,Zara,Heels,4.2,3855
+SKU002122,Handbags Product 73,HRX,Handbags,3.4,24384
+SKU002123,T-Shirts Product 149,Adidas,T-Shirts,4.4,15415
+SKU002124,T-Shirts Product 212,HRX,T-Shirts,3.9,18124
+SKU002125,School Shoes Product 229,Nike,School Shoes,3.9,8876
+SKU002126,School Shoes Product 468,Nike,School Shoes,3.3,7872
+SKU002127,T-Shirts Product 382,Levis,T-Shirts,3.4,12034
+SKU002128,Kids Wear Product 25,Nike,Kids Wear,4.5,22505
+SKU002129,Face Wash Product 94,Campus,Face Wash,3.8,1582
+SKU002130,Tops Product 11,US Polo,Tops,3.9,15819
+SKU002131,Dresses Product 122,HRX,Dresses,4.0,11299
+SKU002132,T-Shirts Product 82,Nike,T-Shirts,4.2,21241
+SKU002133,Dresses Product 184,HRX,Dresses,4.5,20959
+SKU002134,Handbags Product 128,US Polo,Handbags,4.5,18670
+SKU002135,Dresses Product 329,Roadster,Dresses,3.7,18866
+SKU002136,Handbags Product 36,HRX,Handbags,4.0,395
+SKU002137,Heels Product 317,Nike,Heels,3.5,16776
+SKU002138,School Shoes Product 121,Zara,School Shoes,5.0,6700
+SKU002139,Heels Product 384,Zara,Heels,3.5,14689
+SKU002140,Lipstick Product 486,Puma,Lipstick,4.1,15691
+SKU002141,Face Wash Product 171,Puma,Face Wash,3.7,12474
+SKU002142,Tops Product 175,H&M,Tops,3.6,14883
+SKU002143,Jeans Product 389,H&M,Jeans,4.8,17564
+SKU002144,Perfume Product 333,Nike,Perfume,4.1,17031
+SKU002145,Handbags Product 304,Puma,Handbags,4.4,6928
+SKU002146,Jeans Product 67,Puma,Jeans,4.9,12343
+SKU002147,Handbags Product 122,Levis,Handbags,4.5,11013
+SKU002148,Sneakers Product 120,Nike,Sneakers,4.9,14931
+SKU002149,Kids Wear Product 314,HRX,Kids Wear,3.5,952
+SKU002150,School Shoes Product 30,HRX,School Shoes,3.6,21669
+SKU002151,Heels Product 22,Puma,Heels,4.2,9926
+SKU002152,Jeans Product 105,Puma,Jeans,4.5,22022
+SKU002153,Jeans Product 97,Nike,Jeans,3.6,14487
+SKU002154,Tops Product 372,Campus,Tops,3.4,9303
+SKU002155,School Shoes Product 395,Roadster,School Shoes,3.8,23611
+SKU002156,Dresses Product 265,Puma,Dresses,4.3,3327
+SKU002157,T-Shirts Product 369,Zara,T-Shirts,3.4,11044
+SKU002158,Kids Wear Product 77,Adidas,Kids Wear,4.9,6662
+SKU002159,Kids Wear Product 202,HRX,Kids Wear,3.2,22487
+SKU002160,Kids Wear Product 166,Adidas,Kids Wear,4.8,1737
+SKU002161,School Shoes Product 330,US Polo,School Shoes,4.2,6685
+SKU002162,Kids Wear Product 458,Zara,Kids Wear,4.8,178
+SKU002163,Handbags Product 420,Roadster,Handbags,4.5,9578
+SKU002164,Sneakers Product 302,Puma,Sneakers,4.7,18986
+SKU002165,Sneakers Product 203,HRX,Sneakers,3.5,19210
+SKU002166,Kids Wear Product 310,Puma,Kids Wear,3.8,12245
+SKU002167,School Shoes Product 101,Campus,School Shoes,3.4,2572
+SKU002168,Handbags Product 177,US Polo,Handbags,5.0,7953
+SKU002169,Handbags Product 369,Adidas,Handbags,4.6,400
+SKU002170,Dresses Product 322,Zara,Dresses,4.3,9900
+SKU002171,Kids Wear Product 320,US Polo,Kids Wear,3.5,17533
+SKU002172,Kids Wear Product 2,Puma,Kids Wear,4.2,11309
+SKU002173,T-Shirts Product 94,Roadster,T-Shirts,4.5,11954
+SKU002174,Dresses Product 219,Adidas,Dresses,3.9,15847
+SKU002175,Jeans Product 246,Nike,Jeans,3.9,16506
+SKU002176,School Shoes Product 91,Puma,School Shoes,4.1,2912
+SKU002177,Perfume Product 179,Zara,Perfume,4.2,1606
+SKU002178,Handbags Product 411,Roadster,Handbags,3.6,11886
+SKU002179,Handbags Product 106,Roadster,Handbags,3.9,9845
+SKU002180,Jeans Product 131,Roadster,Jeans,4.1,9620
+SKU002181,Kids Wear Product 40,Puma,Kids Wear,3.5,539
+SKU002182,Lipstick Product 262,Puma,Lipstick,3.3,21341
+SKU002183,Dresses Product 263,Roadster,Dresses,4.9,19179
+SKU002184,Face Wash Product 373,Zara,Face Wash,4.6,7389
+SKU002185,School Shoes Product 238,Levis,School Shoes,4.8,9004
+SKU002186,T-Shirts Product 119,H&M,T-Shirts,4.1,24079
+SKU002187,Handbags Product 163,HRX,Handbags,3.7,10766
+SKU002188,Lipstick Product 122,H&M,Lipstick,3.9,19803
+SKU002189,Perfume Product 123,Adidas,Perfume,4.7,12145
+SKU002190,Jeans Product 128,Levis,Jeans,4.6,1469
+SKU002191,School Shoes Product 30,Levis,School Shoes,3.9,20756
+SKU002192,Tops Product 49,Adidas,Tops,4.7,12778
+SKU002193,Handbags Product 304,Nike,Handbags,4.7,7446
+SKU002194,Lipstick Product 219,US Polo,Lipstick,4.6,416
+SKU002195,Face Wash Product 201,Campus,Face Wash,4.0,9119
+SKU002196,Kids Wear Product 434,Zara,Kids Wear,4.1,9001
+SKU002197,Jeans Product 327,HRX,Jeans,3.2,8512
+SKU002198,Heels Product 374,US Polo,Heels,4.2,5953
+SKU002199,Jeans Product 214,Puma,Jeans,4.2,19464
+SKU002200,Kids Wear Product 309,Zara,Kids Wear,3.4,1369
+SKU002201,Face Wash Product 161,HRX,Face Wash,4.4,13704
+SKU002202,Sneakers Product 220,Campus,Sneakers,4.0,7969
+SKU002203,Face Wash Product 297,Campus,Face Wash,5.0,13848
+SKU002204,Sneakers Product 14,Campus,Sneakers,4.8,4221
+SKU002205,Dresses Product 157,US Polo,Dresses,3.4,9456
+SKU002206,Tops Product 327,Nike,Tops,4.2,24944
+SKU002207,Sneakers Product 285,Nike,Sneakers,4.2,22248
+SKU002208,Kids Wear Product 7,Nike,Kids Wear,4.2,2334
+SKU002209,Tops Product 477,Puma,Tops,5.0,18140
+SKU002210,Sneakers Product 196,HRX,Sneakers,4.0,4113
+SKU002211,School Shoes Product 384,US Polo,School Shoes,4.0,2762
+SKU002212,Shirts Product 135,Roadster,Shirts,4.2,8412
+SKU002213,Handbags Product 365,HRX,Handbags,4.1,6248
+SKU002214,Tops Product 152,Levis,Tops,5.0,11715
+SKU002215,School Shoes Product 288,Zara,School Shoes,4.5,7592
+SKU002216,School Shoes Product 316,Zara,School Shoes,3.6,231
+SKU002217,Face Wash Product 172,H&M,Face Wash,4.5,2148
+SKU002218,Kids Wear Product 427,Campus,Kids Wear,4.1,1621
+SKU002219,Tops Product 433,Roadster,Tops,4.0,6344
+SKU002220,T-Shirts Product 415,Campus,T-Shirts,4.8,14325
+SKU002221,School Shoes Product 228,Nike,School Shoes,3.7,4261
+SKU002222,Perfume Product 213,H&M,Perfume,4.5,22085
+SKU002223,Heels Product 334,H&M,Heels,4.1,11303
+SKU002224,School Shoes Product 156,Nike,School Shoes,4.2,3993
+SKU002225,Handbags Product 376,Roadster,Handbags,4.2,19014
+SKU002226,Jeans Product 285,H&M,Jeans,3.3,6937
+SKU002227,Shirts Product 175,Nike,Shirts,4.5,21582
+SKU002228,Jeans Product 26,Zara,Jeans,3.8,9711
+SKU002229,T-Shirts Product 125,Roadster,T-Shirts,4.7,5916
+SKU002230,School Shoes Product 384,US Polo,School Shoes,3.2,13293
+SKU002231,Face Wash Product 329,Nike,Face Wash,4.4,19974
+SKU002232,Sneakers Product 44,H&M,Sneakers,3.4,11730
+SKU002233,Tops Product 148,Adidas,Tops,3.3,11187
+SKU002234,Heels Product 452,Adidas,Heels,3.9,11098
+SKU002235,Shirts Product 328,Zara,Shirts,4.7,3707
+SKU002236,School Shoes Product 311,Puma,School Shoes,4.1,18699
+SKU002237,Sneakers Product 102,Levis,Sneakers,4.1,276
+SKU002238,School Shoes Product 57,Roadster,School Shoes,3.3,14953
+SKU002239,Handbags Product 468,Adidas,Handbags,3.9,17384
+SKU002240,Face Wash Product 395,Campus,Face Wash,4.0,13326
+SKU002241,Face Wash Product 126,Adidas,Face Wash,4.0,11368
+SKU002242,Lipstick Product 117,Levis,Lipstick,4.2,16299
+SKU002243,Perfume Product 334,Roadster,Perfume,3.8,16860
+SKU002244,Lipstick Product 218,Adidas,Lipstick,4.0,22510
+SKU002245,Perfume Product 185,US Polo,Perfume,3.7,6737
+SKU002246,Dresses Product 203,Roadster,Dresses,4.3,7147
+SKU002247,Jeans Product 186,H&M,Jeans,4.5,7666
+SKU002248,T-Shirts Product 243,HRX,T-Shirts,3.3,20398
+SKU002249,Jeans Product 244,H&M,Jeans,4.5,6098
+SKU002250,Sneakers Product 144,Campus,Sneakers,4.3,5586
+SKU002251,Kids Wear Product 421,Adidas,Kids Wear,3.7,11488
+SKU002252,School Shoes Product 259,Zara,School Shoes,3.7,17883
+SKU002253,Face Wash Product 414,Levis,Face Wash,4.0,11137
+SKU002254,Kids Wear Product 205,Campus,Kids Wear,4.2,24976
+SKU002255,Dresses Product 446,Campus,Dresses,4.0,14809
+SKU002256,Kids Wear Product 172,Roadster,Kids Wear,4.3,262
+SKU002257,Face Wash Product 168,HRX,Face Wash,4.8,10903
+SKU002258,School Shoes Product 116,Roadster,School Shoes,3.7,20986
+SKU002259,Tops Product 439,Adidas,Tops,3.8,502
+SKU002260,School Shoes Product 305,US Polo,School Shoes,5.0,6304
+SKU002261,Kids Wear Product 232,Adidas,Kids Wear,4.6,13308
+SKU002262,Face Wash Product 212,Nike,Face Wash,3.6,17032
+SKU002263,Kids Wear Product 266,Nike,Kids Wear,3.6,8998
+SKU002264,Lipstick Product 494,HRX,Lipstick,3.9,12824
+SKU002265,Kids Wear Product 120,Campus,Kids Wear,4.6,8375
+SKU002266,Dresses Product 107,US Polo,Dresses,4.9,4753
+SKU002267,Shirts Product 423,Adidas,Shirts,4.8,8893
+SKU002268,Kids Wear Product 333,Roadster,Kids Wear,3.2,18184
+SKU002269,Face Wash Product 361,Puma,Face Wash,4.4,1652
+SKU002270,School Shoes Product 143,Campus,School Shoes,4.3,20743
+SKU002271,Shirts Product 379,Campus,Shirts,3.3,10270
+SKU002272,Lipstick Product 327,Puma,Lipstick,3.3,4671
+SKU002273,School Shoes Product 52,Nike,School Shoes,4.8,7537
+SKU002274,Lipstick Product 204,H&M,Lipstick,3.5,10337
+SKU002275,Tops Product 103,US Polo,Tops,4.5,8545
+SKU002276,Jeans Product 374,Levis,Jeans,4.9,24976
+SKU002277,Heels Product 406,Nike,Heels,4.2,20217
+SKU002278,Face Wash Product 489,Campus,Face Wash,4.7,4206
+SKU002279,School Shoes Product 45,Nike,School Shoes,4.7,13873
+SKU002280,Jeans Product 253,Roadster,Jeans,4.4,489
+SKU002281,Sneakers Product 329,Campus,Sneakers,4.8,2328
+SKU002282,Face Wash Product 162,Zara,Face Wash,3.6,15954
+SKU002283,Face Wash Product 414,Puma,Face Wash,4.4,16987
+SKU002284,School Shoes Product 400,Adidas,School Shoes,3.6,18914
+SKU002285,Face Wash Product 498,Campus,Face Wash,4.7,10198
+SKU002286,School Shoes Product 304,Campus,School Shoes,4.7,22419
+SKU002287,Lipstick Product 230,Levis,Lipstick,4.7,6330
+SKU002288,Face Wash Product 106,Nike,Face Wash,4.8,632
+SKU002289,Heels Product 138,Campus,Heels,4.4,11464
+SKU002290,Heels Product 374,Adidas,Heels,3.2,15868
+SKU002291,Lipstick Product 488,HRX,Lipstick,4.3,4152
+SKU002292,Dresses Product 17,HRX,Dresses,3.8,14186
+SKU002293,Heels Product 88,Puma,Heels,4.1,12532
+SKU002294,Jeans Product 336,H&M,Jeans,3.8,14341
+SKU002295,School Shoes Product 302,Puma,School Shoes,4.9,20020
+SKU002296,Face Wash Product 411,Zara,Face Wash,4.9,9378
+SKU002297,T-Shirts Product 482,HRX,T-Shirts,4.6,18798
+SKU002298,School Shoes Product 479,Puma,School Shoes,4.8,1009
+SKU002299,Kids Wear Product 220,Adidas,Kids Wear,4.3,23894
+SKU002300,Shirts Product 90,H&M,Shirts,4.0,23152
+SKU002301,Sneakers Product 429,Levis,Sneakers,4.3,24588
+SKU002302,Face Wash Product 32,Adidas,Face Wash,3.9,17897
+SKU002303,Perfume Product 325,Adidas,Perfume,4.0,9184
+SKU002304,Perfume Product 320,Levis,Perfume,4.0,18343
+SKU002305,Kids Wear Product 185,Levis,Kids Wear,3.5,24712
+SKU002306,School Shoes Product 326,Roadster,School Shoes,4.0,4094
+SKU002307,Heels Product 110,Campus,Heels,4.6,20970
+SKU002308,Face Wash Product 85,Campus,Face Wash,4.6,9949
+SKU002309,Heels Product 203,Zara,Heels,3.8,74
+SKU002310,Tops Product 384,Zara,Tops,4.6,11636
+SKU002311,Face Wash Product 15,Roadster,Face Wash,5.0,24288
+SKU002312,School Shoes Product 111,Zara,School Shoes,3.2,13263
+SKU002313,Kids Wear Product 133,Zara,Kids Wear,4.8,22992
+SKU002314,Dresses Product 317,Puma,Dresses,4.6,15388
+SKU002315,Perfume Product 282,H&M,Perfume,4.4,13239
+SKU002316,Tops Product 220,Nike,Tops,4.2,11168
+SKU002317,Jeans Product 102,US Polo,Jeans,3.8,8836
+SKU002318,Kids Wear Product 379,H&M,Kids Wear,4.3,19915
+SKU002319,Jeans Product 76,HRX,Jeans,4.3,10837
+SKU002320,Heels Product 446,Nike,Heels,4.4,14806
+SKU002321,Heels Product 19,Puma,Heels,4.6,21178
+SKU002322,Kids Wear Product 54,Zara,Kids Wear,3.7,22823
+SKU002323,Kids Wear Product 338,H&M,Kids Wear,4.5,22172
+SKU002324,Sneakers Product 414,Puma,Sneakers,3.7,1033
+SKU002325,Shirts Product 5,Levis,Shirts,3.4,2071
+SKU002326,Jeans Product 282,Levis,Jeans,3.5,11936
+SKU002327,T-Shirts Product 104,Roadster,T-Shirts,3.6,1874
+SKU002328,Lipstick Product 460,Adidas,Lipstick,4.2,20345
+SKU002329,Sneakers Product 360,Roadster,Sneakers,4.1,6134
+SKU002330,Lipstick Product 252,US Polo,Lipstick,4.0,21668
+SKU002331,Kids Wear Product 86,Campus,Kids Wear,3.5,11451
+SKU002332,School Shoes Product 219,Zara,School Shoes,4.3,19449
+SKU002333,Face Wash Product 161,Zara,Face Wash,4.1,1287
+SKU002334,Perfume Product 444,Nike,Perfume,3.7,16483
+SKU002335,School Shoes Product 1,Zara,School Shoes,4.0,22055
+SKU002336,T-Shirts Product 397,Roadster,T-Shirts,4.4,24035
+SKU002337,Heels Product 173,US Polo,Heels,3.8,16609
+SKU002338,Face Wash Product 442,Levis,Face Wash,3.8,13211
+SKU002339,Face Wash Product 456,Zara,Face Wash,4.6,11038
+SKU002340,Tops Product 177,US Polo,Tops,4.2,1589
+SKU002341,Jeans Product 75,Nike,Jeans,4.6,17050
+SKU002342,Lipstick Product 297,Puma,Lipstick,3.3,10550
+SKU002343,Handbags Product 390,Campus,Handbags,4.9,12506
+SKU002344,Heels Product 174,H&M,Heels,3.6,8499
+SKU002345,Face Wash Product 442,Nike,Face Wash,4.8,16761
+SKU002346,Heels Product 376,Campus,Heels,4.7,18172
+SKU002347,Kids Wear Product 437,Levis,Kids Wear,3.4,5984
+SKU002348,Tops Product 257,Campus,Tops,4.2,24560
+SKU002349,Face Wash Product 275,Puma,Face Wash,3.6,4801
+SKU002350,Heels Product 321,Campus,Heels,4.5,2252
+SKU002351,Dresses Product 266,Levis,Dresses,3.7,14697
+SKU002352,Shirts Product 280,Levis,Shirts,4.8,13039
+SKU002353,T-Shirts Product 76,Levis,T-Shirts,4.1,6733
+SKU002354,Face Wash Product 254,HRX,Face Wash,4.9,19467
+SKU002355,Tops Product 313,Puma,Tops,4.5,19900
+SKU002356,Kids Wear Product 121,HRX,Kids Wear,4.6,21969
+SKU002357,Kids Wear Product 466,US Polo,Kids Wear,3.7,11531
+SKU002358,Lipstick Product 223,Adidas,Lipstick,5.0,22747
+SKU002359,T-Shirts Product 426,Nike,T-Shirts,5.0,22439
+SKU002360,Dresses Product 141,Adidas,Dresses,4.8,31
+SKU002361,School Shoes Product 357,Zara,School Shoes,3.6,8707
+SKU002362,Heels Product 170,Zara,Heels,4.0,16577
+SKU002363,Tops Product 236,Puma,Tops,3.8,24713
+SKU002364,Kids Wear Product 14,Zara,Kids Wear,3.9,12310
+SKU002365,School Shoes Product 216,Puma,School Shoes,3.9,7750
+SKU002366,Kids Wear Product 154,HRX,Kids Wear,4.4,1102
+SKU002367,Jeans Product 167,Puma,Jeans,3.9,21686
+SKU002368,Heels Product 134,HRX,Heels,4.0,13182
+SKU002369,Sneakers Product 148,Nike,Sneakers,3.7,12238
+SKU002370,Lipstick Product 17,Roadster,Lipstick,4.6,4316
+SKU002371,Shirts Product 470,Puma,Shirts,4.9,22651
+SKU002372,School Shoes Product 79,Campus,School Shoes,4.1,2755
+SKU002373,School Shoes Product 321,US Polo,School Shoes,3.2,24248
+SKU002374,Face Wash Product 349,Zara,Face Wash,4.0,933
+SKU002375,School Shoes Product 3,US Polo,School Shoes,4.3,10507
+SKU002376,School Shoes Product 86,Adidas,School Shoes,3.8,19912
+SKU002377,T-Shirts Product 110,Campus,T-Shirts,4.1,17798
+SKU002378,Kids Wear Product 496,HRX,Kids Wear,3.5,9656
+SKU002379,Kids Wear Product 427,Adidas,Kids Wear,4.5,8179
+SKU002380,Tops Product 5,HRX,Tops,4.1,833
+SKU002381,Sneakers Product 282,Nike,Sneakers,4.8,269
+SKU002382,Kids Wear Product 109,US Polo,Kids Wear,4.1,10843
+SKU002383,Shirts Product 47,US Polo,Shirts,4.1,2113
+SKU002384,Heels Product 305,H&M,Heels,3.6,8059
+SKU002385,Jeans Product 207,Nike,Jeans,3.3,16048
+SKU002386,Kids Wear Product 107,Campus,Kids Wear,4.3,2574
+SKU002387,Lipstick Product 458,Nike,Lipstick,3.9,22785
+SKU002388,Shirts Product 347,Campus,Shirts,3.8,19016
+SKU002389,Sneakers Product 206,Roadster,Sneakers,4.4,14652
+SKU002390,School Shoes Product 269,Levis,School Shoes,3.5,17365
+SKU002391,School Shoes Product 146,Zara,School Shoes,4.0,14525
+SKU002392,Kids Wear Product 446,Roadster,Kids Wear,3.8,11975
+SKU002393,School Shoes Product 471,Puma,School Shoes,3.8,8157
+SKU002394,Jeans Product 62,Puma,Jeans,4.2,5449
+SKU002395,Sneakers Product 442,Nike,Sneakers,4.6,5186
+SKU002396,Lipstick Product 303,Nike,Lipstick,3.4,3558
+SKU002397,Jeans Product 285,Puma,Jeans,3.3,13892
+SKU002398,Lipstick Product 302,Adidas,Lipstick,4.7,6951
+SKU002399,T-Shirts Product 311,Zara,T-Shirts,4.6,11459
+SKU002400,Shirts Product 481,US Polo,Shirts,3.3,16385
+SKU002401,Jeans Product 117,US Polo,Jeans,4.6,19340
+SKU002402,Kids Wear Product 251,Campus,Kids Wear,3.5,7769
+SKU002403,Heels Product 237,HRX,Heels,4.3,13637
+SKU002404,Face Wash Product 233,Levis,Face Wash,5.0,21866
+SKU002405,Lipstick Product 256,Campus,Lipstick,3.4,14732
+SKU002406,Face Wash Product 420,Roadster,Face Wash,4.0,16361
+SKU002407,Jeans Product 292,US Polo,Jeans,5.0,16137
+SKU002408,T-Shirts Product 248,Zara,T-Shirts,3.2,12994
+SKU002409,Face Wash Product 375,US Polo,Face Wash,4.5,2099
+SKU002410,Shirts Product 319,US Polo,Shirts,4.2,12108
+SKU002411,Jeans Product 48,HRX,Jeans,4.8,980
+SKU002412,Kids Wear Product 458,HRX,Kids Wear,3.4,18449
+SKU002413,Lipstick Product 411,HRX,Lipstick,4.8,5230
+SKU002414,Handbags Product 172,Levis,Handbags,4.4,22189
+SKU002415,Jeans Product 195,Zara,Jeans,4.0,19753
+SKU002416,Jeans Product 2,US Polo,Jeans,3.6,158
+SKU002417,Kids Wear Product 92,Roadster,Kids Wear,4.8,17059
+SKU002418,Kids Wear Product 346,Adidas,Kids Wear,3.9,23573
+SKU002419,Sneakers Product 434,Campus,Sneakers,3.7,9731
+SKU002420,Lipstick Product 179,H&M,Lipstick,3.6,15548
+SKU002421,School Shoes Product 211,Levis,School Shoes,4.3,22258
+SKU002422,Shirts Product 224,Roadster,Shirts,3.2,14605
+SKU002423,Lipstick Product 476,Roadster,Lipstick,3.9,11093
+SKU002424,Kids Wear Product 122,US Polo,Kids Wear,4.3,19773
+SKU002425,Lipstick Product 369,H&M,Lipstick,4.4,17717
+SKU002426,Dresses Product 175,Adidas,Dresses,3.9,7596
+SKU002427,T-Shirts Product 381,Puma,T-Shirts,4.8,24600
+SKU002428,T-Shirts Product 282,US Polo,T-Shirts,4.6,22693
+SKU002429,Handbags Product 210,Nike,Handbags,3.6,20991
+SKU002430,Jeans Product 181,Adidas,Jeans,3.8,13741
+SKU002431,Heels Product 483,US Polo,Heels,3.7,23082
+SKU002432,Heels Product 404,H&M,Heels,4.0,8838
+SKU002433,Jeans Product 122,Campus,Jeans,4.8,3508
+SKU002434,Handbags Product 39,Nike,Handbags,4.4,17168
+SKU002435,Kids Wear Product 299,HRX,Kids Wear,4.1,16588
+SKU002436,Shirts Product 247,Roadster,Shirts,3.2,23655
+SKU002437,Kids Wear Product 372,Campus,Kids Wear,3.4,17887
+SKU002438,Kids Wear Product 82,Levis,Kids Wear,3.7,1254
+SKU002439,Kids Wear Product 373,Campus,Kids Wear,3.6,20540
+SKU002440,Perfume Product 498,Roadster,Perfume,4.0,24175
+SKU002441,Sneakers Product 289,HRX,Sneakers,4.8,7701
+SKU002442,Kids Wear Product 260,Campus,Kids Wear,4.9,16869
+SKU002443,Tops Product 281,Adidas,Tops,3.7,22297
+SKU002444,Kids Wear Product 143,US Polo,Kids Wear,4.9,15018
+SKU002445,Face Wash Product 281,Levis,Face Wash,3.4,17162
+SKU002446,School Shoes Product 358,Adidas,School Shoes,3.9,24375
+SKU002447,Shirts Product 425,Levis,Shirts,3.3,4752
+SKU002448,Perfume Product 497,US Polo,Perfume,4.3,23219
+SKU002449,Kids Wear Product 28,Puma,Kids Wear,3.4,19294
+SKU002450,Sneakers Product 78,Levis,Sneakers,4.5,3730
+SKU002451,Kids Wear Product 16,HRX,Kids Wear,3.4,8147
+SKU002452,School Shoes Product 58,Nike,School Shoes,3.3,1805
+SKU002453,Handbags Product 480,Nike,Handbags,4.7,5773
+SKU002454,Kids Wear Product 293,H&M,Kids Wear,3.8,273
+SKU002455,Kids Wear Product 451,Nike,Kids Wear,3.7,17046
+SKU002456,Perfume Product 120,H&M,Perfume,4.4,13282
+SKU002457,Shirts Product 117,Puma,Shirts,4.1,24254
+SKU002458,Shirts Product 123,Nike,Shirts,4.3,23654
+SKU002459,Sneakers Product 396,Adidas,Sneakers,3.8,5157
+SKU002460,Kids Wear Product 163,Puma,Kids Wear,4.4,1473
+SKU002461,Jeans Product 339,Nike,Jeans,4.0,2090
+SKU002462,Handbags Product 472,Zara,Handbags,4.8,12343
+SKU002463,Sneakers Product 87,HRX,Sneakers,3.6,474
+SKU002464,Jeans Product 181,H&M,Jeans,4.9,19624
+SKU002465,School Shoes Product 187,Nike,School Shoes,4.4,1985
+SKU002466,Kids Wear Product 27,Puma,Kids Wear,3.8,16509
+SKU002467,Lipstick Product 286,HRX,Lipstick,4.7,11829
+SKU002468,Face Wash Product 330,H&M,Face Wash,3.9,24029
+SKU002469,Perfume Product 354,Roadster,Perfume,3.5,844
+SKU002470,Heels Product 185,Zara,Heels,4.9,2768
+SKU002471,Jeans Product 456,Campus,Jeans,3.6,16625
+SKU002472,Kids Wear Product 349,Nike,Kids Wear,4.5,1429
+SKU002473,Perfume Product 22,Nike,Perfume,3.6,5326
+SKU002474,School Shoes Product 474,Zara,School Shoes,3.2,284
+SKU002475,Jeans Product 357,Puma,Jeans,3.3,2968
+SKU002476,Dresses Product 325,Campus,Dresses,4.2,20227
+SKU002477,Face Wash Product 113,Puma,Face Wash,3.6,19541
+SKU002478,Kids Wear Product 462,HRX,Kids Wear,4.2,24106
+SKU002479,Face Wash Product 457,Roadster,Face Wash,3.4,14002
+SKU002480,Shirts Product 131,HRX,Shirts,3.6,5280
+SKU002481,Tops Product 322,Campus,Tops,4.7,14499
+SKU002482,Kids Wear Product 228,US Polo,Kids Wear,4.8,3586
+SKU002483,Lipstick Product 92,Zara,Lipstick,3.8,20365
+SKU002484,Perfume Product 328,US Polo,Perfume,4.5,12751
+SKU002485,Perfume Product 494,Adidas,Perfume,4.9,13171
+SKU002486,Face Wash Product 57,H&M,Face Wash,3.6,12202
+SKU002487,T-Shirts Product 402,Roadster,T-Shirts,3.8,13040
+SKU002488,School Shoes Product 257,Puma,School Shoes,3.6,24161
+SKU002489,Heels Product 289,Roadster,Heels,4.7,6381
+SKU002490,Tops Product 463,Adidas,Tops,4.3,8997
+SKU002491,Perfume Product 151,Zara,Perfume,4.3,23657
+SKU002492,Heels Product 1,US Polo,Heels,4.5,9581
+SKU002493,Jeans Product 194,Zara,Jeans,3.7,5743
+SKU002494,Dresses Product 404,Levis,Dresses,4.4,22100
+SKU002495,Heels Product 242,Levis,Heels,4.9,17322
+SKU002496,School Shoes Product 139,Levis,School Shoes,4.8,14317
+SKU002497,Kids Wear Product 347,HRX,Kids Wear,4.6,24299
+SKU002498,Heels Product 115,Puma,Heels,4.4,24529
+SKU002499,Handbags Product 187,H&M,Handbags,4.8,4629
+SKU002500,Dresses Product 353,Campus,Dresses,3.6,24754
